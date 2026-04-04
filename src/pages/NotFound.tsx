@@ -1,20 +1,41 @@
+import { Link } from 'react-router-dom';
+
 const NotFound = () => {
   return (
-    <div
-      style={{
-        padding: '4rem 2rem',
-        textAlign: 'center',
-        maxWidth: '600px',
-        margin: '0 auto',
-      }}
-    >
-      <h1 style={{ fontSize: '6rem', margin: '0', color: '#dc3545' }}>404</h1>
-      <h2 style={{ fontSize: '2rem', margin: '1rem 0', color: '#333' }}>
-        Page Not Found
-      </h2>
-      <p style={{ fontSize: '1.2rem', color: '#666', marginBottom: '2rem' }}>
-        Sorry, the page you are looking for doesn't exist or has been moved.
-      </p>
+    <div className="container">
+      <div className="row justify-content-center">
+        <div className="col-md-8 col-lg-6">
+          <div className="card bg-dark border-secondary shadow-lg">
+            <div className="card-body text-center py-5">
+              <div className="mb-4">
+                <i
+                  className="bi bi-exclamation-triangle text-warning"
+                  style={{ fontSize: '5rem' }}
+                ></i>
+              </div>
+              <h1 className="display-1 fw-bold text-light">404</h1>
+              <h2 className="mb-3 text-light">Page Not Found</h2>
+              <p className="lead text-light mb-4">
+                Sorry, the page you are looking for doesn't exist or has been
+                moved.
+              </p>
+              <div className="d-grid gap-2 d-md-flex justify-content-md-center">
+                <Link to="/" className="btn btn-primary btn-lg px-4">
+                  <i className="bi bi-house-door me-2"></i>
+                  Go Back Home
+                </Link>
+                <button
+                  className="btn btn-outline-secondary btn-lg px-4"
+                  onClick={() => window.history.back()}
+                >
+                  <i className="bi bi-arrow-left me-2"></i>
+                  Go Back
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
