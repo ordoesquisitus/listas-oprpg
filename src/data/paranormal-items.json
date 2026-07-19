@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Agrupador Ritualístico",
+    "description": "Um item pequeno — não maior que uma faca — e de aparência variada. Você pode gastar uma ação padrão para prender um componente ou um catalisador nele, e pode ter até quatro desses itens presos nele. Componentes e catalisadores presos no agrupador contam como empunhados, desde que o agrupador esteja sendo empunhado. Se você estiver empunhando o agrupador ritualístico, todos os componentes e catalisadores presos nele também contam como empunhados. Ocultistas usam este item para segurar vários componentes e catalisadores com uma só mão.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Amarras de <Elemento>",
+    "description": "Cordas ou correntes feitas de um elemento paranormal específico. As amarras são preparadas para imobilizar criaturas do Outro Lado que sejam vulneráveis ao elemento que as compõem e podem ser usadas de duas formas.<ul><li><strong>ARMADILHA.</strong> Você gasta as amarras, uma ação completa e 2 PE para preparar uma armadilha de 3x3m. Uma criatura que atravesse o espaço pela primeira vez em seu turno precisa fazer um teste de Reflexos (DT Int); se falhar, fica imóvel até o final da cena. Mesmo se passar, considera o espaço ocupado pela armadilha como terreno difícil.</li><li><strong>LAÇAR.</strong> Você gasta uma ação padrão e 1 PE e escolhe uma criatura em alcance curto. Se falhar num teste de Vontade (DT Agi), a criatura fica paralisada até o início de seu próximo turno, quando pode repetir o teste. Manter a criatura enlaçada requer o gasto de 1 PE por rodada.</li></ul>",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Amuleto Sinalizador de <Elemento>",
+    "description": "Ao adquirir este amuleto preso a um cordão ou corrente, escolha um elemento (exceto Medo). Este item vestido emite um tênue sinal — pinga gotas vermelhas para Sangue, larga um rastro de fumaça para Morte (como um incenso), emite luz dourada para Conhecimento e muda de cor bruscamente para Energia — quando uma criatura do elemento respectivo entra em alcance longo dele, mesmo tendo paredes ou outros objetos no caminho.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Câmera de Aura Paranormal",
+    "description": "Esta câmera amaldiçoada com Energia possui sigilos de Conhecimento para capturar auras paranormais. Tirar uma foto gasta uma ação padrão e 1 PE. As fotos são instantâneas e revelam a presença de auras paranormais em pessoas e objetos. As auras são da cor associada ao elemento.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Catalisador Ritualístico Ampliador de <Elemento>",
+    "description": "Aumenta o alcance do ritual em um passo (apenas de curto para médio, de médio para longo ou de longo para extremo) ou dobra a área de efeito. Por exemplo, uma Dissonância Acústica ampliada tem seu alcance aumentado para longo ou sua área aumentada para 12m de raio.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Catalisador Ritualístico Perturbador de <Elemento>",
+    "description": "A DT para resistir ao ritual aumenta em +2.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Catalisador Ritualístico Potencializador de <Elemento>",
+    "description": "O dano do ritual aumenta em um dado do mesmo tipo.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Catalisador Ritualístico Prolongador de <Elemento>",
+    "description": "A duração do ritual dobra. Por exemplo, um Distorcer Aparência prolongado tem sua duração aumentada para duas cenas. Não funciona para rituais instantâneos ou sustentados.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Componentes Ritualísticos de <Elemento>",
+    "description": "Um conjunto de objetos utilizados em rituais de um elemento entre Sangue, Morte, Conhecimento ou Energia (não existem componentes ritualísticos de Medo). Componentes ritualísticos são necessários para a conjuração de rituais do elemento em questão.<ul><li><span class='bg-violet'><strong>ENERGIA</strong></span>: eletricidade, dispositivos tecnológicos (celulares, computadores etc.), circuitos eletrônicos, fontes de calor e luz, pilhas, baterias, cabos de cobre e prata, pólvora, moedas, dados, ímãs…</li><li><span class='bg-danger'><strong>SANGUE</strong></span>: órgãos, carne, sangue, animais vivos (parasacrifício), navalhas, agulhas, arame farpado, correntes, metal enferrujado, fluidos corporais…</li><li><span class='bg-black'><strong>MORTE</strong></span>: ossos, dentes, cinzas, fios de cabelo, cristais pretos, relógios, galhos secos, folhas secas, plantas mortas, raízes, areia, poeira, Lodo…</li><li><span class='bg-warning'><strong>CONHECIMENTO</strong></span>: escrituras, papéis, livros, pergaminhos, instrumentos de escrita (lápis, caneta, tinta, giz etc.), pedras preciosas, ouro, cordas, tecido, cristais brancos, vidro, máscaras…</li></ul>",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Emissor de Ruídos Paranormais",
+    "description": "Esta pequena caixa coberta de sigilos foi desenvolvida para servir como uma “isca” de criaturas paranormais. Ativar a caixa gasta uma ação completa e 1 PE. A caixa emite um pulso de um elemento definido pelo ativador, que atrai criaturas do mesmo elemento e afasta criaturas do elemento oposto. As criaturas afetadas têm direito a um teste de Vontade (DT Pre) para evitar o efeito.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Escuta de Ruídos Paranormais",
+    "description": "Este microfone funciona como um aparato espião, com a diferença que consegue captar ruídos paranormais. Ativar a escuta gasta uma ação completa e 2 PE e faz com que ela grave ruídos por até 24 horas. Ouvir a escuta fornece +5 em testes de Ocultismo para identificar criatura.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Ligação Direta Infernal",
+    "description": "Um amontoado de fios de cobre contaminados com Sangue e Energia. Você pode gastar uma ação completa para usar os fios para ligar um veículo automaticamente. Isso faz os fios invadirem os controles do veículo animando-o de forma paranormal; o veículo recebe resistência a dano 20 (cumulativa com qualquer RD que já possua) e imunidade a Sangue, e você recebe +5 em testes de Pilotagem para conduzi-lo. Entretanto, nesse estado o veículo tentará causar o máximo de confusão possível; as consequências de qualquer falha nos testes de Pilotagem são amplificadas a critério do mestre (de forma geral, qualquer dano ou penalidade causado por uma falha é dobrado). Remover a ligação direta infernal de um veículo é uma ação completa.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Medidor de Condição Vertebral",
+    "description": "Este item grotesco é uma coluna vertebral sustentada por Lodo de Morte e revestida com cabos e fios de Energia. Para ser usado, deve ser conectado à coluna vertebral, em um procedimento que exige uma ação completa e causa profunda dor e agonia, deixando o usuário atordoado por uma rodada. O medidor conta como uma vestimenta que fornece +2 em Fortitude. Além disso, uma vez conectado ele se ilumina em cores que vão do vermelho, na base, passando por amarelo no centro até verde no topo. Essas cores indicam a saúde do usuário, sendo verde a melhor condição. Além disso, se o usuário estiver sob um efeito paranormal, o item emitirá pulsos de luz lilás. Por fim, as informações fornecidas pelo item concedem um bônus de +5 em testes de Medicina feitos para auxiliar o usuário.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Pé de Morto",
+    "description": "Estas botas macabras foram costuradas com a pele de cadáveres amaldiçoados pela Morte. Com essa matéria grotesca, a bota mantém os passos do usuário leves e quase inaudíveis, como se ele fosse um fantasma se aproximando sem fazer barulho. Você recebe +5 em Furtividade e, em cenas de furtividade, qualquer ação chamativa que envolva apenas se mover (como correr ou saltar) aumenta a visibilidade em apenas +1.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Pen Drive Selado",
+    "description": "Este dispositivo está gravado com sigilos dourados de Conhecimento. Graças à proteção desses sigilos, o pen drive não pode ser invadido ou afetado por rituais, seres e efeitos de Energia. Isso mantém seus arquivos protegidos, e permite que ele seja usado para invadir outros dispositivos sem ser contaminado pela entidade. Existem outros modelos de dispositivos selados, como HDs externos e celulares.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Scanner de Manifestação Paranormal de <Elemento>",
+    "description": "Este item é composto por um dispositivo conectado a pequenos objetos amaldiçoados de uma entidade específica e adornado com uma série de sigilos. Ativar o scanner é uma ação padrão. Quando ativado, o scanner consome 1 PE por rodada do usuário, que sempre sabe a direção de todas as manifestações paranormais ativas (rituais, criaturas, itens amaldiçoados etc.) do elemento escolhido em alcance longo. Se o elemento principal de uma criatura for outro, mas ela tiver como complemento o elemento escolhido do scanner, também será detectada.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Valete da Salvação",
+    "description": "Assim como um valete servia a seus senhores, esta carta — um valete de ouros pintada de dourado e coberta com sigilos de Conhecimento — serve para salvá-lo de uma situação complicada. Para usá-la, você deve gastar uma ação padrão para atirá-la ao ar. Ela então irá voar em alcance médio, apontando para a melhor rota de fuga dentro deste alcance, e deixará de existir. Se a carta for gasta em uma cena de perseguição, você é bem-sucedido em uma ação de cortar caminho.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Crânio Dominador",
+    "description": "O crânio nefasto de quem outrora conheceu a submissão, agora tomado pela podridão e pelas correntes que o aprisionavam em vida, transbordando o desejo de retribuir cada gota de sofrimento. Se estiver empunhando este item, você pode gastar uma ação padrão e 2 PE para invocar correntes que envolvem até dois alvos em alcance curto. Eles ficam paralisados (Reflexos DT Pre evita). A única forma de se libertar é com o rompimento da corrente (Defesa 10, RD 10, 20 PV). O crânio não pode ser usado novamente por 24 horas e quando voltar a ser útil, as correntes já existentes desaparecem.",
+    "tier": "III",
+    "weight": 1
+  },
+  {
+    "name": "Gaiola do Corvo",
+    "description": "Uma gaiola de pássaros feita de ossos e originada da morte daquele que perdeu sua liberdade. Dentro dela, uma nuvem de cinzas inquieta sussurra os lamentos daqueles que se foram. Se estiver empunhando este item, você pode gastar uma ação padrão para colocá-lo no chão e abrir sua portinhola. Ao fazer isso, todo o solo em um raio de 18m da gaiola é tomado por Lodo e se torna terreno difícil. No começo de toda rodada, aqueles que se encontrarem no Lodo sofrem 3d10 pontos de dano de Morte (Fortitude DT Vig reduz à metade). Se alguém ficar morrendo enquanto está no Lodo, seu corpo é consumido, transformado em cinzas e levado para dentro da gaiola, onde permanecerá para sempre. Após isso, a gaiola se fecha e seus efeitos acabam. É possível fechar a gaiola a qualquer momento como ação padrão.",
+    "tier": "III",
+    "weight": 2
+  }
+]

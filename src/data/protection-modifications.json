@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Antibombas",
+    "description": "Quimicamente tratada para resistir ao calor e revestida de preenchimentos para amortecer estilhaços. Acompanha um capacete com viseira para proteger da luz e barulho de explosões. Fornece +5 em testes de resistência contra efeitos de área. Só pode ser aplicada em proteções pesadas.",
+    "effect": "+5 em testes de resistência contra efeitos de área."
+  },
+  {
+    "name": "Blindada",
+    "description": "Reforçada com placas de aço e cerâmica costuradas dentro das camadas de kevlar. Aumenta a resistência a dano para 5 e o espaço ocupado em +1. Só pode ser aplicada em proteções pesadas.",
+    "effect": "Aumenta RD para 5 e o espaço em +1."
+  },
+  {
+    "name": "Discreta",
+    "description": "Colete compacto feito com kevlar denso para reduzir o volume. Reduz o número de espaços ocupados em 1, fornece +5 em testes de Crime para ser ocultada e permite que você faça esse teste mesmo que não seja treinado na perícia. Só pode ser aplicada em proteções leves.",
+    "effect": "+5 em testes de ocultar e reduz o espaço em –1."
+  },
+  {
+    "name": "Reforçada",
+    "description": "Aumenta a Defesa fornecida em +2 e o espaço ocupado em +1. Uma proteção não pode ser reforçada e discreta ao mesmo tempo.",
+    "effect": "Aumenta a Defesa em +2 e o espaço em +1."
+  }
+]

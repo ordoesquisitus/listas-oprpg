@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Armamento Pesado",
+    "description": "Você recebe proficiência com armas pesadas.",
+    "requirement": "For 2."
+  },
+  {
+    "name": "Ataque de Oportunidade",
+    "description": "Sempre que um ser sair voluntariamente de um espaço adjacente ao seu, você pode gastar uma reação e 1 PE para fazer um ataque corpo a corpo contra ele.",
+    "requirement": null
+  },
+  {
+    "name": "Combate Defensivo",
+    "description": "Quando usa a ação agredir, você pode combater defensivamente. Se fizer isso, até seu próximo turno, sofre –1d20 em todos os testes de ataque, mas recebe +5 na Defesa.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Golpe Demolidor",
+    "description": "Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 1 PE para causar dois dados de dano extra do mesmo tipo de sua arma.",
+    "requirement": "For 2, treinado em Luta."
+  },
+  {
+    "name": "Golpe Pesado",
+    "description": "Enquanto estiver empunhando uma arma corpo a corpo, o dano dela aumenta em mais um dado do mesmo tipo.",
+    "requirement": null
+  },
+  {
+    "name": "Incansável",
+    "description": "Uma vez por cena, você pode gastar 2 PE para fazer uma ação de investigação adicional, mas deve usar Força ou Agilidade como atributo-base do teste.",
+    "requirement": null
+  },
+  {
+    "name": "Presteza Atlética",
+    "description": "Quando faz um teste de facilitar a investigação, você pode gastar 1 PE para usar Força ou Agilidade no lugar do atributo-base da perícia. Se passar no teste, o próximo aliado que usar seu bônus também recebe +1d20 no teste.",
+    "requirement": null
+  },
+  {
+    "name": "Proteção Pesada",
+    "description": "Você recebe proficiência com Proteções Pesadas.",
+    "requirement": "NEX 30%."
+  },
+  {
+    "name": "Reflexos Defensivos",
+    "description": "Você recebe +2 em Defesa e em testes de resistência.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Segurar o Gatilho",
+    "description": "Sempre que acerta um ataque com uma arma de fogo, pode fazer outro ataque com a mesma arma contra o mesmo alvo, pagando 2 PE por cada ataque já realizado no turno. Ou seja, pode fazer o primeiro ataque extra gastando 2 PE e, se acertar, pode fazer um segundo ataque extra gastando mais 4 PE e assim por diante, até errar um ataque ou atingir o limite de seus PE por rodada.",
+    "requirement": "NEX 60%."
+  },
+  {
+    "name": "Sentido Tático",
+    "description": "Você pode gastar uma ação de movimento e 2 PE para analisar o ambiente. Se fizer isso, recebe um bônus em Defesa e em testes de resistência igual ao seu Intelecto até o final da cena.",
+    "requirement": "Int 2, treinado em Percepção e Tática."
+  },
+  {
+    "name": "Tanque de Guerra",
+    "description": "Se estiver usando uma proteção pesada, a Defesa e a resistência a dano que ela fornece aumentam em +2.",
+    "requirement": "Proteção Pesada."
+  },
+  {
+    "name": "Tiro Certeiro",
+    "description": "Se estiver usando uma arma de disparo, você soma sua Agilidade nas rolagens de dano e ignora a penalidade contra alvos envolvidos em combate corpo a corpo (mesmo se não usar a ação mirar).",
+    "requirement": "Treinado em Pontaria."
+  },
+  {
+    "name": "Tiro de Cobertura",
+    "description": "Você pode gastar uma ação padrão e 1 PE para disparar uma arma de fogo na direção de um ser no alcance da arma para forçá-lo a se proteger. Faça um teste de Pontaria contra a Vontade do alvo. Se vencer, até o início do seu próximo turno o alvo não pode sair do lugar onde está e sofre –5 em testes de ataque. A critério do mestre, o alvo recebe +5 no teste de Vontade se estiver em um lugar extremamente perigoso, como uma casa em chamas ou um barco afundando. Este é um efeito de medo.",
+    "requirement": null
+  },
+  {
+    "name": "Transcender",
+    "description": "Escolha um poder paranormal. Você recebe o poder escolhido, mas não ganha Sanidade neste aumento de NEX. Você pode escolher este poder várias vezes.",
+    "requirement": null
+  },
+  {
+    "name": "Treinamento em Perícia",
+    "description": "Escolha duas perícias. Você se torna treinado nessas perícias. A partir de NEX 35%, você pode escolher perícias nas quais já é treinado para se tornar veterano. A partir de NEX 70%, pode escolher perícias nas quais já é veterano para se tornar expert. Você pode escolher este poder várias vezes.",
+    "requirement": null
+  },
+  {
+    "name": "Apego Angustiado",
+    "description": "Não importa o quão profundos sejam seus ferimentos, você escolhe a agonia enlouquecedora da dor a perder a consciência diante da própria morte. Você não fica inconsciente por estar morrendo, mas sempre que terminar uma rodada nesta condição e consciente, perde 2 pontos de Sanidade.",
+    "requirement": null
+  },
+  {
+    "name": "Caminho para Forca",
+    "description": "Se for para alguém do seu grupo ser pego, que seja você. Quando usa a ação sacrifício em uma cena de perseguição, você pode gastar 1 PE para fornecer +1d20 extra (para um total de +2d20) nos testes dos outros personagens e, quando usa a ação chamar atenção em uma cena de furtividade, você pode gastar 1 PE para diminuir a visibilidade de todos os seus aliados próximos em –2 (em vez de –1).",
+    "requirement": null
+  },
+  {
+    "name": "Ciente das Cicatrizes",
+    "description": "Acostumado a manusear armas, você aprendeu também a identificar as marcas que elas deixam. Quando faz um teste para encontrar uma pista relacionada a armas ou ferimentos (como um teste para necropsia ou para identificar uma arma amaldiçoada), você pode usar Luta ou Pontaria no lugar da perícia original.",
+    "requirement": "Treinado em Luta ou Pontaria."
+  },
+  {
+    "name": "Correria Desesperada",
+    "description": "Você já esteve diante de coisas que não podem ser derrotadas e aprendeu da forma mais trágica que às vezes fugir é a única chance de vitória. Você recebe +3m em seu deslocamento e +1d20 em testes de perícia para fugir em uma perseguição.",
+    "requirement": "Treinado em Luta ou Pontaria."
+  },
+  {
+    "name": "Engolir o Choro",
+    "description": "Mesmo ferido, você não vai emitir um pio até que a ameaça se afaste. Você não sofre penalidades por condições em testes de perícia para fugir e em testes de Furtividade.",
+    "requirement": null
+  },
+  {
+    "name": "Instinto de Fuga",
+    "description": "Sabendo que nem toda batalha pode ser vencida, você desenvolveu um sexto sentido para prever quando é hora de fugir. Quando uma cena de perseguição (ou semelhante) tem início, você recebe +2 em todos os testes de perícia que fizer durante a cena.",
+    "requirement": "Treinado em Intuição."
+  },
+  {
+    "name": "Mochileiro",
+    "description": "Você já precisou pegar a estrada para escapar de perseguidores o suficiente para saber como carregar tudo que precisa. Seu limite de carga aumenta em 5 espaços e você pode se beneficiar de uma vestimenta adicional.",
+    "requirement": "Vig 2."
+  },
+  {
+    "name": "Paranoia Defensiva",
+    "description": "Você sabe que eles estão lá fora, e fará tudo ao seu alcance para mantê-los assim. Uma vez por cena, você pode gastar uma rodada e 3 PE. Se fizer isso, você e cada aliado presente escolhe entre receber +5 na Defesa contra o próximo ataque que sofrer na cena ou receber um bônus de +5 em um único teste de perícia feito até o fim da cena.",
+    "requirement": null
+  },
+  {
+    "name": "Sacrificar os Joelhos",
+    "description": "Diante de algo que não pode ser vencido, você abre mão da autopreservação para superar seus limites de fuga. Uma vez por cena de perseguição, quando faz a ação esforço extra, você pode gastar 2 PE para passar automaticamente no teste de perícia.",
+    "requirement": "Treinado em Atletismo."
+  },
+  {
+    "name": "Sem Tempo, Irmão",
+    "description": "Você sabe que pistas são importantes, mas com o paranormal podendo surgir a qualquer momento, cada segundo conta. Uma vez por cena de investigação, quando usa a ação facilitar investigação, você pode prestar ajuda de forma apressada e descuidada. Você passa automaticamente no teste para auxiliar seus aliados, mas faz uma rolagem adicional na tabela de eventos de investigação.",
+    "requirement": null
+  },
+  {
+    "name": "Valentão",
+    "description": "Em algum momento, a vida lhe ensinou que a brutalidade pode ser amedrontadora, e agora esse é seu principal idioma. Você pode usar Força no lugar de Presença para Intimidação. Além disso, uma vez por cena, pode gastar 1 PE para fazer um teste de Intimidação para assustar como uma ação livre.",
+    "requirement": null
+  },
+  {
+    "name": "Predador Perfeito",
+    "description": "Você praticou técnicas de caça até ficar assustadoramente ágil. Uma vez por rodada, você pode gastar 5 PE para fazer uma ação padrão adicional. Essa ação precisa ser com intenção de causar dano (dar um soco, disparar uma arma, armar uma armadilha, conjurar um ritual que cause dano etc.).",
+    "requirement": "veterano em Luta ou Pontaria e Sobrevivência."
+  },
+  {
+    "name": "Golpes de Arena",
+    "description": "Você aprendeu como se briga dentro das grades. Quando acerta um ataque desarmado, você pode gastar 2 PE para fazer um ataque desarmado adicional ou uma manobra de combate contra o mesmo alvo.",
+    "requirement": "Treinado em Luta."
+  },
+  {
+    "name": "Marteladas",
+    "description": "Suas pancadas são como golpes de marreta. Você pode gastar uma ação completa e 3 PE para desferir 3 ataques desarmados contra o mesmo alvo. Some o dano de todos os ataques que acertarem e aplique-o como uma única instância de dano. Por exemplo, aplique a RD do alvo apenas uma vez.",
+    "requirement": "For 2, treinado em Luta, Artista Marcial."
+  },
+  {
+    "name": "Guardião da Tropa",
+    "description": "Você vai proteger a todos e se sentir bem com isso. Se um aliado adjacente for alvo de um ataque ou habilidade que tenha ele como alvo único, você pode gastar uma reação e 2 PE para sofrer o ataque ou habilidade por ele. Se o ataque não vencer sua Defesa ou a habilidade não te afetar completamente — passando no teste de resistência dela, por exemplo —, você recupera 1 SAN. Esse poder pode ser adquirido novamente para mudar o alcance de adjacente para curto.",
+    "requirement": "Ataque Especial, Casca Grossa."
+  },
+  {
+    "name": "Vitalidade Sofrida",
+    "description": "As surras que você já tomou te fizeram ainda mais resistente, mas quebraram parte da sua sanidade. Seus PV iniciais mudam para 24 + Vigor; seus PV a cada novo nível mudam para 6 PV (+Vig); sua SAN inicial muda para 11; sua SAN a cada novo nível muda para 2. Aplique aos níveis que já tem e aos níveis futuros.",
+    "requirement": "Ataque Especial."
+  },
+  {
+    "name": "Chuva de Balas",
+    "description": "Você sabe muito bem como administrar e economizar sua munição durante os combates, assim como sabe sentar o dedo no momento certo. Todos os pacotes de munição que estiverem em seu inventário tem sua duração por cena dobrada. Além disso, ao disparar uma rajada, o ataque passa a causar mais dois dados extra de dano adicional do mesmo tipo, além do normal. Se estiver usando a regra opcional de contagem de munição, a quantidade de ataques que cada pacote afeta aumenta em +10. Este poder não funciona com foguetes, combustíveis e granadas 40mm.",
+    "requirement": null
+  },
+  {
+    "name": "Combatente Esforçado",
+    "description": "Seu treinamento intenso e físico de dar orgulho teve bons rendimentos. Você recebe +1 PE para cada NEX.",
+    "requirement": "For 3 ou Vig 3."
+  },
+  {
+    "name": "Treinamento Militarizado",
+    "description": "Você pode exercitar-se uma vez por cena de interlúdio sem gastar ação. Além disso, o bônus recebido por exercitar-se em uma cena de interlúdio muda para +1d8 e também pode ser gasto em rolagens de dano, mas só pode usar um bônus em cada rolagem.",
+    "requirement": null
+  },
+  {
+    "name": "Aura de Confiança",
+    "description": "Entrar em combate tendo você do lado é inspirador. Todos os seus aliados em um raio de 18m a partir de você recebem +5 em testes de Iniciativa e em testes contra presença perturbadora (você não recebe esses bônus, apenas seus aliados).",
+    "requirement": null
+  },
+  {
+    "name": "Fôlego de Emergência",
+    "description": "Uma vez por cena, quando está machucado, você pode gastar uma ação de movimento para se recompor em meio ao conflito (escolha entre recuperar 2d8+Vig PV ou 1d8+Vig PE). Você só pode usar esse poder se houver alguma ameaça presente.",
+    "requirement": null
+  },
+  {
+    "name": "Parede de Carne",
+    "description": "Seu corpo robusto fornece cobertura leve (+5 na Defesa) para aliados em espaços adjacentes ao seu.",
+    "requirement": "Vig 3 ou For 3."
+  },
+  {
+    "name": "Análise Combativa",
+    "description": "Você especializou suas habilidades de análise. Quando faz um teste usando Ciente das Cicatrizes, você recebe +5 nesse teste. Além disso, se enfrentar uma ameaça que já havia investigado com sucesso usando Ciente das Cicatrizes, você recebe +2 em testes contra ela.",
+    "requirement": "Ciente das Cicatrizes."
+  },
+  {
+    "name": "Especialista em Proteção Leve",
+    "description": "Você sabe usufruir do que a proteção leve tem de melhor. Se estiver usando uma proteção leve, você recebe +2 na Defesa e em Reflexos.",
+    "requirement": null
+  }
+]

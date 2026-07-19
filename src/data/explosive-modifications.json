@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Adesiva",
+    "description": "A granada gruda no alvo. Se o alvo for um ser, você precisa fazer um teste de ataque à distância contra a Defesa dele. Se errar, a granada gruda no espaço onde o ser está. Se acertar, ela gruda no ser (ele falha automaticamente em qualquer teste de resistência contra a granada). Caso o seu efeito não seja instantâneo, a granada se move junto com o alvo até que ele gaste uma ação padrão para removê-la do seu corpo.",
+    "effect": "A granada gruda no alvo."
+  },
+  {
+    "name": "Dupla",
+    "description": "A granada tem um efeito adicional. Ao aplicar essa modificação, você escolhe um efeito de outra granada de categoria igual ou menor que a desta granada (exceto itens amaldiçoados) que se ativará junto com o efeito principal. O efeito adicional deve ser diferente do efeito principal.",
+    "effect": "A granada tem um efeito adicional."
+  },
+  {
+    "name": "Programada",
+    "description": "A granada tem um temporizador programado por você. Após arremessá-la, ou posicioná-la onde desejar, você define em quantos turnos ela deverá se ativar.",
+    "effect": "A granada tem um temporizador programado."
+  }
+]

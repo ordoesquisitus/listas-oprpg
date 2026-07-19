@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Amuleto Sagrado",
+    "description": "Um utensílio especial na forma de shimenawa, rosário, fio de contas, contas de oração ou qualquer outro objeto que reforce sua fé e ajude a blindá-lo das desgraças do dia a dia. Ocupa o espaço de um item vestido e fornece +2 em Religião e Vontade.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Celular",
+    "description": "Um utensílio especial (embora comum hoje em dia). Serve para tirar fotos, gravar áudios e vídeos, acessar a internet e até, veja só, ligar para outras pessoas. Se tiver acesso a internet, fornece +2 em testes de perícia que envolvam adquirir informações. Por fim, possui uma lanterna fraca, mas útil na falta de um equipamento melhor, que ilumina em um cone de 4,5m.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Chave de Fenda Universal",
+    "description": "Esta ferramenta pode ser considerada um milagre da engenharia humana. Com ela em mãos, você é capaz de resolver quase qualquer problema. Fornece +2 em testes de perícia para criar ou reparar objetos, desde panelas de cozinha até motores de avião. Também fornece o bônus se usada como item de apoio em situações especiais, como lidar com cabos para hackear um servidor.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Chaves",
+    "description": "Molhos de chaves (de casa, veículo, cadeados etc.) são itens comuns. Usar o barulho de um molho de chaves para distrair alguém (jogando as chaves, por exemplo) fornece +2 em testes de Furtividade feitos na mesma rodada.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Documentos Falsos",
+    "description": "Um conjunto de documentos (identidade funcional, carteira de habilitação, cartões de crédito etc.) em nome de uma identidade falsa. Você recebe +2 em testes de Diplomacia, Enganação e Intimidação para se passar pela pessoa representada pelos documentos.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Kit de Perícia",
+    "description": "Um conjunto de ferramentas necessárias para algumas perícias ou usos de perícias. Sem o kit, você sofre –5 no teste. Existe um kit de perícia para cada perícia que exige este item.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Manual Operacional",
+    "description": "Um livro com lições práticas sobre um assunto. Existe um manual operacional para cada perícia; gastar uma ação de interlúdio lendo um manual permite que você use essa perícia como se fosse treinado nela até o próximo interlúdio. Um manual operacional aprimorado também fornece +5 na perícia.Você só pode recebero benefício de um manual operacional por vez.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Notebook",
+    "description": "Um utensílio especial. Como um celular, se tiver acesso a internet fornece +2 em testes de perícia que envolvem adquirir informações. Além disso, por sua tela maior, pode ser usado para entretenimento de forma mais agradável; ao relaxar em cenas de interlúdio, você recupera 1 ponto adicional de Sanidade. A luz do monitor ilumina em um cone de 4,5m. Tablets estão inclusos como uma variação de notebook.",
+    "tier": "0",
+    "weight": 2
+  },
+  {
+    "name": "Utensílio",
+    "description": "Um item comum que tenha uma utilidade específica, como um canivete, uma lupa, um smartphone ou um notebook. Um utensílio fornece +2 em uma perícia (exceto Luta e Pontaria).Por exemplo, um smartphone pode ser usado para acessar a internet e fornecer bônus em Ciências, enquanto um notebook pode ser preparado para invadir sistemas e fornecer bônus em Tecnologia. Você pode inventar itens menos realistas, comoum “detector de mentiras portátil” que fornece +2 em Intuição, mas o mestre tem a palavra final se o utensílio é apropriado ou não. Utensílios sempre ocupam 1 espaço e precisam ser empunhados para que o bônus seja aplicado.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Vestimenta",
+    "description": "Uma peça de vestuário que fornece +2 em uma perícia (exceto Luta ou Pontaria). Por exemplo, um par de botas militares pode fornecer +2 em Atletismo, um terno ou vestido elegante pode fornecer +2 em Diplomacia e um manto com glifos pode fornecer +2 em Ocultismo. Assim como utensílios, o benefício de cada vestimenta deve ser aprovado pelo mestre. Você pode receber os bônus de no máximo duas vestimentas ao mesmo tempo. Vestir ou despir uma vestimenta é uma ação completa.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Câmera Filmadora",
+    "description": "Uma filmadora antiga que pode capturar aquilo que os nossos olhos, muitas vezes, acabam deixando passar. Este utensílio fornece +2 em testes de Investigação e Percepção, além de poder ser usado como lanterna (ilumina um cone de 9m) ou na função de visão noturna de fósforo verde (funciona como Visão no Escuro).",
+    "tier": "I",
+    "weight": 1
+  }
+]

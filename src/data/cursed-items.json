@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pergaminho da Pertinácia",
+    "description": "<i>Um pergaminho amarelado e antigo. Mesmo enrolado, é possível vislumbrar sigilos dourados brilhando na parte interior</i>. Você pode gastar uma ação padrão para encarar os sigilos do Outro Lado inscritos no pergaminho, recebendo 5 PE temporários até o fim da cena. Sempre que usa este item, você deve fazer um teste de Ocultismo (DT 15 + 5 por uso adicional no mesmo dia). Se falhar, o pergaminho se desfaz.",
+    "element": "Conhecimento"
+  },
+  {
+    "name": "Repositório do Fracasso",
+    "description": "<i>Esta pequena caixinha de madeira se assemelha a um antigo porta-joias. Seu exterior, entretanto, é decorado com figuras espectrais que expressam um desespero profundo</i>. Sempre que uma criatura Paranormal em alcance médio faz um teste, para cada resultado 1 nos d20 desse teste, o repositório do fracasso recebe uma carga, até um máximo de 6 cargas. Uma vez por rodada, você pode consumir uma dessas cargas para recuperar 1d4 PE. Sempre que faz isso, entretanto, você sofre uma penalidade cumulativa de –1 em Vontade até seu próximo interlúdio.",
+    "element": "Conhecimento"
+  }
+]

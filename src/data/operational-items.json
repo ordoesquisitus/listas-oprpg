@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Alarme de Movimento",
+    "description": "Este pequeno objeto de fácil  aquisição pode ser controlado por um dispositivo móvel  específico ou um aplicativo de celular. Você pode gastar uma ação completa para posicionar e ativar o alarme;  após isso, sempre que houver movimento significativo em um cone de 30m para onde ele foi apontado, ele irá sinalizar o dispositivo de controle. Ao acionar o alarme você pode regular sua sensibilidade ao movimento (como padrão, ele é acionado sempre que um ser Pequeno ou maior se move na área). A sinalização pode  ser discreta, apenas no dispositivo, ou barulhenta, acionando um alarme sonoro alto e agudo.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Algemas",
+    "description": "Um par de algemas de aço. Para prender uma pessoa que não esteja indefesa você precisa empunhar a algema, agarrar a pessoa e então vencer um novo teste de agarrar contra ela. Você pode prender os dois pulsos da pessoa (–5 em testes que exijam o uso das mãos, impede conjuração) ou um dos pulsos dela em um objeto imóvel adjacente, caso haja, para impedir que ela se mova. Escapar das algemas exige um teste de Acrobacia contra DT 30 (ou ter as chaves…).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Alimento Energético",
+    "description": "Existem diversos alimentos e suplementos de alta tecnologia capazes de recuperar as energias mentais de um agente. Você pode gastar uma ação padrão para consumir este item e recuperar 1d4 PE.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Aplicador de Medicamentos",
+    "description": "Essa adaptação portátil de bombas injetoras hospitalares pode ser presa ao redor do braço ou perna para aplicar uma substância, como um cicatrizante ou medicamento, com uma ação de movimento. O aplicador tem espaço para três doses de substâncias (já contabilizadas no espaço do item). Carregar uma dose de uma substância no aplicador é uma ação padrão.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Arpéu",
+    "description": "Um gancho de aço amarrado na ponta de uma corda para se fixar em muros, janelas, parapeitos de prédios… Prender um arpéu exige um teste de Pontaria (DT 15). Subir um muro com a ajuda de uma corda fornece +5 no teste de Atletismo.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Bandoleira",
+    "description": "Um cinto com bolsos e alças. Uma vez por rodada, você pode sacar ou guardar um item em seu inventário como uma ação livre.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Binóculos",
+    "description": "Estes binóculos militares fornecem +5 em testes de Percepção para observar coisas distantes.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Bloqueador de Sinal",
+    "description": "Este dispositivo compacto emite ondas que “poluem” a frequência de rádio usada por celulares, impedindo que qualquer aparelho desse tipo em alcance médio se conecte.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Braçadeira Reforçada",
+    "description": "Semelhante às proteções usadas em artes marciais e outros esportes de contato, estas braçadeiras ajudam a absorver o impacto ao bloquear golpes com o braço. Elas aumentam em +2 a RD que você recebe por usar um bloqueio.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Cão Adestrado",
+    "description": "Um cachorro pode ser um parceiro (e amigo!) valioso para um agente. Um personagem treinado em Adestramento pode usar um cão adestrado como um aliado.",
+    "tier": "I",
+    "weight": null
+  },
+  {
+    "name": "Cicatrizante",
+    "description": "Um spray contendo um remédio com potente efeito cicatrizante. Você pode gastar uma ação padrão e este item para curar 2d8+2 PV em você ou em um ser adjacente.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Corda",
+    "description": "Um rolo com 10 metros de corda resistente. Possui diversas utilidades: pode ajudar a descer um buraco ou prédio (+5 em testes de Atletismo nessas situações), amarrar pessoas inconscientes etc.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Equipamento de Escuta",
+    "description": "Este conjunto contém um receptor, com alcance de 90m, e três minúsculos transmissores capazes de captar conversas e outros sons em um raio de 9m. Instalar um transmissor demora alguns minutos e exige um teste de Crime contra DT 20 (uma falha indica que a escuta não irá transmitir). O resultado desse teste é também a DT para outras pessoas encontrarem o transmissor. É possível instalar um transmissor discretamente com outras pessoas presentes; fazer isso é uma ação completa, requer um teste de Furtividade oposto à Percepção dos presentes e aumenta a DT do teste de Crime em +5.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Equipamento de Sobrevivência",
+    "description": "Uma mochila com saco de dormir, panelas, GPS e outros itens úteis para sobreviver no mato. Fornece +5 em testes de Sobrevivência para acampar e orientar-se e permite que você faça esses testes sem treinamento.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Estrepes",
+    "description": "Uma ferramenta medieval cuja utilidade a manteve ativa até os dias de hoje, um estrepe é uma peça de metal com quatro pontas afiadas, construída de modo que uma ponta sempre fique voltada para cima. Usar um saco de estrepes em combate exige uma ação padrão para cobrir um quadrado de 1,5m de lado. Um ser que pise numa área coberta de estrepes sofre 1d4 pontos de dano de perfuração e fica lento por um dia. Em uma cena de perseguição, você pode aplicar os estrepes como parte de sua ação, mas sofre –1d20 em seu teste nessa rodada. Um perseguidor que pise nos estrepes sofre –1d20 em testes de perseguição até o fim da cena. Tanto em combate quanto em perseguição, passar em um teste de Reflexos (DT Agi) evita os estrepes. Os estrepes não afetam seres capazes de resistir a todo o seu dano.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Faixa de Pregos",
+    "description": "Este aparato compacto é uma trilha de hastes metálicas sanfonadas com pregos em toda sua extensão. Utilizado primariamente para parar veículos, pode ser empregado contra outros oponentes. Uma faixa de pregos funciona como estrepes, exceto que ocupa uma linha de 9m. Além disso, veículos com pneus de borracha que passem pela faixa têm seus pneus automaticamente perfurados, o que reduz seu deslocamento pela metade.",
+    "tier": "I",
+    "weight": 2
+  },
+  {
+    "name": "Isqueiro",
+    "description": "Existem isqueiros de vários tipos, desde os sofisticados de metal até os descartáveis de plástico. Todos seguem o mesmo princípio; você pode gastar uma ação de movimento para produzir uma pequena chama. Além de incendiar objetos inflamáveis, emite luz em um raio de 3m.",
+    "tier": "0",
+    "weight": 0.5
+  },
+  {
+    "name": "Lanterna Tática",
+    "description": "Ilumina lugares escuros. Além disso, você pode gastar uma ação de movimento para mirar a luz nos olhos de um ser em alcance curto. Ele fica ofuscado por 1 rodada, mas imune à lanterna pelo resto da cena.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Máscara de Gás",
+    "description": "Uma máscara com filtro que cobre o rosto inteiro. Fornece +10 em testes de Fortitude contra efeitos que dependam de respiração.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Antibiótico",
+    "description": "Fortalece a imunidade contra vírus e bactérias. Fornece +5 no próximo teste de Fortitude contra efeitos de uma doença feito até o fim do dia.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Antídoto",
+    "description": "Ajuda o corpo a lidar com venenos. Fornece +5 no próximo teste de Fortitude contra efeitos de um veneno até o fim do dia. Um antídoto feito para um veneno específico, em vez disso, remove completamente o veneno.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Antiemético",
+    "description": "Remove a condição enjoado e fornece +5 em testes para evitar essa condição até o fim da cena. A critério do mestre, pode funcionar contra outras condições causadas por náuseas e vômitos.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Antihistamínico",
+    "description": "Reduz reações alérgicas perigosas. Fornece +5 no próximo teste contra efeitos de uma alergia feito até o fim do dia.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Anti-inflamatório",
+    "description": "Reduz reações inflamatórias, diminuindo dor e inchaço. Fornece 1d8+2 PV temporários.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Antitérmico",
+    "description": "Reduz reações febris perigosas e alivia dores de cabeça, permitindo um novo teste contra uma condição mental que o usuário esteja sofrendo. Só funciona uma vez por cena.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Broncodilatador",
+    "description": "Auxilia na respiração. Fornece +5 em testes para evitar as condições asfixiado ou fatigado feitos até o fim do dia.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Coagulante",
+    "description": "Aumenta a capacidade de coagulação, fornecendo +5 em testes para se estabilizar da condição sangrando feitos até o fim do dia. Se usado em conjunto com um teste de Medicina para remover a condição morrendo, também fornece +5 nesse teste.",
+    "tier": "I",
+    "weight": 0.5
+  },
+  {
+    "name": "Mochila Militar",
+    "description": "Alimentados por uma bateria, estes óculos permitem enxergar no escuro, como se o personagem tivesse visão no escuro. Entretanto, o usuário recebe –1d20 em testes de resistência contra a condição ofuscado e efeitos baseados em luz (como uma granada de atordoamento).",
+    "tier": "I",
+    "weight": null
+  },
+  {
+    "name": "Óculos de Visão Noturna",
+    "description": "Alimentados por uma bateria, estes óculos permitem enxergar no escuro, como se o personagem tivesse visão no escuro. Entretanto, o usuário recebe –1d20 em testes de resistência contra a condição ofuscado e efeitos baseados em luz (como uma granada de atordoamento).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Óculos de Visão Térmica",
+    "description": "Estes óculos eliminam a penalidade em testes por camuflagem.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Óculos de Visão Térmica",
+    "description": "Estes óculos eliminam a penalidade em testes por camuflagem.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Óculos Escuros",
+    "description": "Um personagem vestindo óculos escuros não pode ser ofuscado.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Pá",
+    "description": "Esta pesada ferramenta fornece +5 em testes de Força para cavar buracos e mover detritos. Pode ser usada em combate como um bastão.",
+    "tier": "0",
+    "weight": 2
+  },
+  {
+    "name": "Paraquedas",
+    "description": "Anula o dano de queda. Personagens com grau de treinamento veterano em Acrobacia, Pilotagem, Reflexos, Tática ou uma Profissão específica sabem usar paraquedas. Caso contrário, ou em quedas muito curtas, usar o paraquedas requer um teste de Reflexos (DT 20). Se falhar, o paraquedas não funciona adequadamente, reduzindo o dano de queda apenas à metade.",
+    "tier": "I",
+    "weight": 2
+  },
+  {
+    "name": "Pé de Cabra",
+    "description": "Esta barra de ferro fornece +5 em testes de Força para arrombar portas. Pode ser usada em combate como um bastão.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Pistola de Dardos",
+    "description": "Esta arma dispara dardos com um poderoso sonífero. Para disparar em um ser, faça um ataque à distância contra ele. Se acertá-lo, ele fica inconsciente até o fim da cena (Fortitude DT Agi reduz para desprevenida e lenta por uma rodada). A pistola vem com 2 dardos. Uma caixa adicional com 2 dardos é um item de categoria 0 que ocupa 1 espaço.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Pistola Sinalizadora",
+    "description": "Esta pistola dispara um sinalizador luminoso, útil para chamar outras pessoas para sua localização. Pode ser usada como uma arma de disparo leve com alcance curto que causa 2d6 pontos de dano de fogo. A pistola vem com 2 cargas. Uma caixa adicional com 2 cargas é um item de categoria 0 que ocupa 1 espaço.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Soqueira",
+    "description": "Esta peça de metal é usada entre os dedos e permite socos mais perigosos — fornece +1 em rolagens de dano desarmado. Uma soqueira pode receber modificações e maldições de armas corpo a corpo e aplica os efeitos delas em seus ataques desarmados.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Spray de Pimenta",
+    "description": "Este spray dispara um composto químico que causa dor e lacrimação. Você pode gastar uma ação padrão para atingir um ser adjacente. O ser fica cego por 1d4 rodadas (Fortitude DT Agi evita). A carga do spray dura dois usos.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Taser",
+    "description": "Um dispositivo de eletrochoque capaz de atordoar ou até incapacitar um alvo. Você pode gastar uma ação padrão para atingir um ser adjacente. O alvo sofre 1d6 pontos de dano de eletricidade e fica atordoado por uma rodada (Fortitude DT Agi evita). A bateria do taser dura dois usos.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Traje de Mergulho",
+    "description": "Uma roupa impermeável e que cobre quase o corpo inteiro, usada para garantir a segurança do mergulhador debaixo d’água. Vem acompanhado de tanque e máscara que garantem 1 hora de oxigênio. Fornece +5 em testes de resistência contra efeitos ambientais e resistência a dano químico 5. Ocupa o espaço de uma vestimenta e vesti-lo ou despi-lo é uma ação completa.",
+    "tier": "I",
+    "weight": 2
+  },
+  {
+    "name": "Traje Espacial",
+    "description": "Uma roupa impermeável e que cobre o corpo inteiro, usada para garantir a segurança do astronauta no vácuo do espaço. Possui um suprimento de água e oxigênio de oito horas, e protege contra os raios cósmicos e de minúsculas rochas errantes no espaço. Fornece +10 em testes de resistência contra efeitos ambientais e resistência a dano químico 20. Ocupa o espaço de uma vestimenta e vesti-lo, ou despi-lo, demora duas rodadas.",
+    "tier": "II",
+    "weight": 5
+  },
+  {
+    "name": "Traje Hazmat",
+    "description": "Uma roupa impermeável e que cobre o corpo inteiro, usada para impedir o contato do usuário com materiais tóxicos. Fornece +5 em testes de resistência contra efeitos ambientais e resistência a químico 10.",
+    "tier": "I",
+    "weight": 2
+  },
+  {
+    "name": "Bebida Batizada",
+    "description": "Uma versão especial de uma bebida, preparada com “carinho” para expurgar todas as mazelas de um corpo. Se beber, você se livra de uma condição mental e/ou de medo que o esteja afetando. Porém, sofre 2d4 pontos de dano mental.",
+    "tier": "II",
+    "weight": 1
+  },
+  {
+    "name": "Paçoca",
+    "description": "Uma iguaria típica brasileira, muito popular nas festas juninas. Este delicioso doce é feito à base de amendoim torrado e moído, açúcar e farinha de mandioca. Dizem que é impossível comer uma só. A paçoca conta como um prato rápido, mas em ocasiões especiais, a critério do mestre, a paçoca pode surpreender: uma vez por dia, ao comer ela, o personagem recupera 1d8+1 PV, PE e SAN.",
+    "tier": "0",
+    "weight": 0.5
+  },
+  {
+    "name": "Aplicador de Adrenalina",
+    "description": "Uma caneta aplicadora pronta para injetar uma alta carga de epinefrina. Você pode gastar uma ação padrão e este item para injetar a epinefrina em você ou em um ser adjacente. O item fornece 2d8+2 PV temporários, +3m de deslocamento e +2 em testes baseados em Força, Agilidade e Vigor até o fim da cena. Quando o efeito acaba, o ser sofre um rebote (fica fatigado por uma cena). Este item conta como um medicamento.",
+    "tier": "I",
+    "weight": 1
+  }
+]

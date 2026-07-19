@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Dinamite",
+    "description": "Dinamite é um artefato explosivo à base de nitroglicerina, ajeitado em um bastão com 20 cm de comprimento. Com a mesma ação padrão é possível acender seu pavio com uma das mãos e arremessá-la com a outra em um ponto à sua escolha em alcance médio. A dinamite afeta um raio de 6m a partir do ponto de impacto; seres e objetos soltos na área sofrem 4d6 pontos de dano de impacto e 4d6 pontos de dano de fogo e ficam em chamas (Reflexos DT Agi reduz à metade e evita condição em chamas).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Explosivo Plástico",
+    "description": "Essa massa adesiva do tamanho de uma esponja é acompanhada de pinos de ignição e um detonador remoto. Para utilizá-la, você precisa gastar duas rodadas para preparar os pinos e grudar o explosivo em uma superfície. Por fim, você pode detonar o explosivo acionando um detonador (uma ação livre que pode ser feita de alcance longo) ou causando pelo menos 1 ponto de dano de fogo ou eletricidade nele. Quando detonado, o explosivo plástico causa 16d6 pontos de dano de impacto em todos os seres e objetos em um raio de 3m (Reflexos DT Int reduz à metade). Se usado por um especialista em explosivos (alguém treinado em Crime ou uma Profissão adequada, a critério do mestre), causa o dobro de dano em objetos e estruturas e ignora sua RD.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Galão Vermelho",
+    "description": "Galões vermelhos, ou marcados com um símbolo de chama, carregam substâncias inflamáveis. Apesar de serem mais frequentes em ambientes industriais, também são encontrados em ambientes inusitados quando menos se espera. Ao sofrer dano de fogo ou balístico, um galão vermelhoexplode, atingindo uma esfera de 6m de raio. Seres na área sofrem 12d6 pontos de dano de fogo e ficam em chamas (Reflexos DT 25 reduz à metade e evita a condição). A área afetada pelo raio da explosão fica em chamas (1d6 pontos de dano de fogo por rodada em seres e objetos) até ser apagada ou a cena acabar.",
+    "tier": "0",
+    "weight": 2
+  },
+  {
+    "name": "Granada de Atordoamento",
+    "description": "Também chamadas de flash-bang, por criarem um estouro barulhento e luminoso. Seres na área ficam atordoados por 1 rodada (Fortitude DT Agi reduz para ofuscado e surdo por uma rodada).",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Granada de Fragmentação",
+    "description": "Espalha fragmentos perfurantes. Seres na área sofrem 8d6 pontos de dano de perfuração (Reflexos DT Agi reduz à metade).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Granada de Fumaça",
+    "description": "Produz uma fumaça espessa e escura. Seres na área ficam cegos e sob camuflagem total. A fumaça dura 2 rodadas.",
+    "tier": "0",
+    "weight": 1
+  },
+  {
+    "name": "Granada de Gás Sonífero",
+    "description": "Esta granada libera uma fumaça branca que preenche um raio de 6m a partir do ponto de impacto. Seres que comecem seus turnos na área ficam inconscientes e caídos ou, se estiverem envolvidos em atividade física intensa (como combate), ficam exaustos por 1 rodada, depois fatigados (em ambos os casos, Fortitude DT Agi reduz para fatigado por 1d4 rodadas). O gás permanece na área por 2 rodadas.",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Granada de PEM",
+    "description": "Esta granada emite um poderoso pulso eletromagnético que desativa todos os equipamentos elétricos em um raio de 18m até o fim da cena. Criaturas de Energia na área sofrem 6d6 pontos de dano de impacto e ficam atordoadas por 1 rodada (apenas uma vez por cena, Fortitude DT Agi reduz à metade e evita a condição).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Granada Incediária",
+    "description": "Espalha labaredas incandescentes. Seres na área sofrem 6d6 pontos de dano de fogo e ficam em chamas (Reflexos DT Agi reduz o dano à metade e evita a condição em chamas).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Mina Antipessoal",
+    "description": "Esta mina é ativada por controle remoto. Se você estiver a até alcance longo dela, pode gastar uma ação padrão para detoná-la. Ao explodir, a mina dispara centenas de bolas de aço em um cone de 6m, causando 12d6 pontos de dano de perfuração em todos os seres na área (Reflexos DT Int reduz à metade). Você define a direção do cone quando posiciona a mina no chão. Instalar a mina exige uma ação completa e um teste de Tática contra DT 15. Caso falhe, você gasta a mina, mas ela não funciona. Encontrar uma mina instalada exige um teste de Percepção (DT igual ao resultado do seu teste para instalá-la).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Granada de Gás Lacrimogêneo",
+    "description": "Uma granada que libera uma nuvem química que provoca ardência, irritação e sufocamento. Seres em um raio de 6m a partir do ponto de impacto sofrem 4d6 pontos de dano químico, ficam enjoados e asfixiados. Após deixarem a área de efeito, continuam asfixiados por 1d4 rodadas e ainda ficam enjoados até o fim da cena (Fortitude DT Agi reduz o dano à metade e evita a condição enjoado).",
+    "tier": "I",
+    "weight": 1
+  },
+  {
+    "name": "Granada de Tinta",
+    "description": "Uma granada caseira que espalha tintas coloridas e fosforescentes pelo ambiente, marcando os alvos e os tornando mais visíveis. Seres em um raio de 6m a partir do ponto de impacto ficam vulneráveis e sofrem –2d20 em Furtividade até o fim da cena (Reflexos DT Agi evita condição).",
+    "tier": "0",
+    "weight": 1
+  }
+]

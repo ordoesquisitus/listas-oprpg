@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aprimorado",
+    "description": "O bônus em perícia concedido pelo acessório aumenta para +5. Se o item tiver função adicional, esta modificação poderá ser escolhida uma segunda vez para esta função.",
+    "effect": "Aumenta um dos bônus em perícia para +5."
+  },
+  {
+    "name": "Bateria Potente",
+    "description": "Essa modificação para objetos elétricos aumenta sua eficiência e duração. Se usada em lanternas, celulares e notebooks, dobra a duração da bateria e o alcance da luz projetada. Se usada em um taser, dobra seus usos, aumenta o dano para 1d8 e a DT para resistir a ele em +5. Pode afetar outros objetos, conforme proposta dos jogadores, a critério do mestre.",
+    "effect": "<i>Leia descrição</i>."
+  },
+  {
+    "name": "Discreto",
+    "description": "O item é miniaturizado ou disfarçado como outro item inócuo (como um relógio). Reduz o número de espaços ocupados  em 1, fornece +5 em testes de Crime para ser ocultado e permite que você faça esse teste mesmo que não seja treinado na perícia.",
+    "effect": "+5 em testes de ocultar e reduz espaço em -1."
+  },
+  {
+    "name": "Função Adicional",
+    "description": "O acessório fornece +2 em uma perícia adicional à sua escolha, sujeita à aprovação do mestre.",
+    "effect": "Concede +2 a uma perícia adicional."
+  }
+]

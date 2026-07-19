@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Balística Avançada",
+    "description": "Você recebe proficiência com armas táticas de fogo e +2 em rolagens de dano com armas de fogo.",
+    "requirement": null
+  },
+  {
+    "name": "Conhecimento Aplicado",
+    "description": "Quando faz um teste de perícia (exceto Luta e Pontaria), você pode gastar 2 PE para mudar o atributo-base da perícia para Int.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Hacker",
+    "description": "Você recebe +5 em testes de Tecnologia para invadir sistemas e diminui o tempo necessário para hackear qualquer sistema para uma ação completa.",
+    "requirement": "treinado em Tecnologia."
+  },
+  {
+    "name": "Mãos Rápidas",
+    "description": "Ao fazer um teste de Crime, você pode pagar 1 PE para fazê-lo como uma ação livre.",
+    "requirement": "Agi 3, treinado em Crime."
+  },
+  {
+    "name": "Mochila de Utilidades",
+    "description": "Um item a sua escolha (exceto armas) conta como uma categoria abaixo e ocupa 1 espaço a menos.",
+    "requirement": null
+  },
+  {
+    "name": "Movimento Tático",
+    "description": "Você pode gastar 1 PE para ignorar a penalidade em deslocamento por terreno difícil e por escalar até o final do turno.",
+    "requirement": "treinado em Atletismo."
+  },
+  {
+    "name": "Na Trilha Certa",
+    "description": "Sempre que tiver sucesso em um teste para procurar pistas, você pode gastar 1 PE para receber +1d20 no próximo teste. Os custos e os bônus são cumulativos (se passar num segundo teste, pode pagar 2 PE para receber um total de +2d20 no próximo teste, e assim por diante).",
+    "requirement": null
+  },
+  {
+    "name": "Nerd",
+    "description": "Você é um repositório de conhecimento útil (e inútil). Uma vez por cena, pode gastar 2 PE para fazer um teste de Atualidades (DT 20). Se passar, recebe uma informação útil para essa cena (se for uma investigação, uma dica para uma pista; se for um combate, uma fraqueza de um inimigo, e assim por diante). A fonte da informação pode ser desde um livro antigo que você leu na biblioteca até um episódio de sua série de ficção favorita.",
+    "requirement": null
+  },
+  {
+    "name": "Ninja Urbano",
+    "description": "Você recebe proficiência com armas táticas de ataque corpo a corpo e de disparo (exceto de fogo) e +2 em rolagens de dano com armas de corpo a corpo e de disparo.",
+    "requirement": null
+  },
+  {
+    "name": "Pensamento Ágil",
+    "description": "Uma vez por rodada, durante uma cena de investigação, você pode gastar 2 PE para fazer uma ação de procurar pistas adicional.",
+    "requirement": null
+  },
+  {
+    "name": "Perito em Explosivos",
+    "description": "Você soma seu Intelecto na DT para resistir aos seus explosivos e pode excluir dos efeitos da explosão um número de alvos igual ao seu valor de Intelecto.",
+    "requirement": null
+  },
+  {
+    "name": "Primeira Impressão",
+    "description": "Você recebe +2d20 no primeiro teste de Diplomacia, Enganação, Intimidação ou Intuição que fizer em uma cena.",
+    "requirement": null
+  },
+  {
+    "name": "Transcender",
+    "description": "Escolha um poder paranormal. Você recebe o poder escolhido, mas não ganha Sanidade neste aumento de NEX. Você pode escolher este poder várias vezes.",
+    "requirement": null
+  },
+  {
+    "name": "Treinamento em Perícia",
+    "description": "Escolha duas perícias. Você se torna treinado nessas perícias. A partir de NEX 35%, você pode escolher perícias nas quais já é treinado para se tornar veterano. A partir de NEX 70%, pode escolher perícias nas quais já é veterano para se tornar expert. Você pode escolher este poder várias vezes.",
+    "requirement": null
+  },
+  {
+    "name": "Acolher o Terror",
+    "description": "Você já sofreu tanto medo que às vezes aceitar o terror é como voltar para casa. Você pode se entregar para o medo uma vez por sessão de jogo adicional.",
+    "requirement": null
+  },
+  {
+    "name": "Contatos Oportunos",
+    "description": "Ao longo de sua vida, você fez amizades úteis com pessoas de vários tipos em muitos lugares. Você pode usar uma ação de interlúdio para acionar seus contatos locais. Você recebe um aliado de um tipo à sua escolha, que lhe acompanha até o fim da missão ou até ser dispensado. Você só pode ter um desses aliados por vez, e o mestre tem a palavra final sobre a disponibilidade de cada aliado.",
+    "requirement": "treinado em Crime."
+  },
+  {
+    "name": "Disfarce Sutil",
+    "description": "Você sabe como se disfarçar rapidamente, usando pequenos detalhes para alterar sua aparência. Quando faz um disfarce em si mesmo usando Enganação, você pode gastar 1 PE para se disfarçar como uma ação completa e sem necessidade de um kit de disfarces (se usar um kit, recebe +5 no teste).",
+    "requirement": "Pre 2, treinado em Enganação."
+  },
+  {
+    "name": "Esconderijo Desesperado",
+    "description": "Você já esteve diante de coisas que não podem ser derrotadas e aprendeu da forma mais trágica que às vezes se esconder é a única chance de vitória. Você não sofre –O em testes de Furtividade por se mover ao seu deslocamento normal. Além disso, em cenas de furtividade, sempre que passa em um teste para esconder-se, sua visibilidade diminui em –2 (em vez de apenas –1).",
+    "requirement": null
+  },
+  {
+    "name": "Especialista Diletante",
+    "description": "A vida lhe ensinou que todo tipo de conhecimento pode ser útil. Você aprende um poder que não pertença à sua classe (exceto poderes de trilha ou paranormais), à sua escolha, cujos pré-requisitos possa cumprir.",
+    "requirement": "NEX 30%."
+  },
+  {
+    "name": "Flashback",
+    "description": "Um novo trauma recente desbloqueia um conhecimento adormecido. Talvez fosse uma memória enterrada fundo em sua mente, ou uma habilidade desenvolvida por seu cérebro como um mecanismo de defesa. Escolha uma origem que não seja a sua. Você recebe o poder dessa origem.",
+    "requirement": null
+  },
+  {
+    "name": "Leitura Fria",
+    "description": "Você estudou técnicas de “leitura fria”, a capacidade de analisar e compreender uma pessoa através de suas mais sutis reações. Uma vez em cada interlúdio, se passar alguns minutos interagindo com uma pessoa, ou mesmo observando-a no mesmo ambiente, você pode fazer três perguntas pessoais sobre ela, tais como “Qual seu filme favorito?”, “Qual sua profissão?” “Tem algum animal de estimação?”. O mestre pode responder com a verdade ou se negar a responder, mas, para cada pergunta não respondida, você recebe 2 PE temporários que duram até o fim da missão. Esse poder só pode ser usado uma vez em cada pessoa, e apenas em NPCs.",
+    "requirement": "treinado em Intuição."
+  },
+  {
+    "name": "Mãos Firmes",
+    "description": "Quando há um caçador à espreita, derrubar sequer uma agulha pode ser o suficiente para revelar sua localização. E você não quer queisso aconteça. Quando faz um teste de Furtividade para esconder-se ou para executar uma ação discreta que envolva manipular um objeto (como em uma cena de furtividade), você pode gastar 2 PE para receber +1d20 nesse teste.",
+    "requirement": "treinado em Furtividade."
+  },
+  {
+    "name": "Plano de Fuga",
+    "description": "A todo momento você está criando cenários imaginários e possibilidades na sua mente, pensando em estratégias que usaria para escapar de perseguidores. Você pode usar Intelecto no lugar de Força para a ação criar obstáculos em uma perseguição. Além disso, uma vez por cena, pode gastar 2 PE para dispensar o teste e ser bem-sucedido nesta ação.",
+    "requirement": null
+  },
+  {
+    "name": "Remoer Memórias",
+    "description": "Sua mente está constantemente revivendo memórias do passado, sejam elas boas ou ruins. Uma vez por cena, quando faz um teste de perícia baseada em Intelecto ou Presença, você pode gastar 2 PE para substituir esse teste por um teste de Intelecto com DT 15.",
+    "requirement": "Int 1."
+  },
+  {
+    "name": "Resistir à Pressão",
+    "description": "A ansiedade de correr contra o relógio o deixa mais eficiente. Uma vez por cena de investigação, você pode gastar 5 PE para coordenar os esforços de seus companheiros. A urgência da investigação aumenta em 1 rodada, e durante esta rodada adicional todos os personagens (incluind você) recebem +2 em testes de perícia.",
+    "requirement": "treinado em Investigação."
+  },
+  {
+    "name": "Assassinato Furtivo",
+    "description": "Você sabe ferir os pontos vitais com ainda mais letalidade. O dano que você causa com a habilidade de trilha Ataque Furtivo aumenta em +1d6. Além disso, quando acerta um ataque furtivo, você pode gastar 2 PE para mudar o tipo dos dados de dano furtivo de d6 para d8.",
+    "requirement": "Ataque Furtivo."
+  },
+  {
+    "name": "Especialista em Matar",
+    "description": "Você reduz em um passo a ação necessária para mirar e fintar (ação padrão para movimento, movimento para livre). Se fizer uma dessas ações, até o início do seu próximo turno, quando atacar, você pode gastar 2 PE para somar +5 no teste de ataque ou na rolagem de dano. No NEX 40%, pode gastar 3 PE para somar +10 (ou +5 e +5). No NEX 70%, pode gastar 4 PE para somar +15 (ou +10 e +5).",
+    "requirement": "treinado em Luta ou Pontaria, habilidade Perito."
+  },
+  {
+    "name": "Análise Conturbada",
+    "description": "Sua eloquência mórbida e palavras angustiantes, por mais que macabras, trazem uma certa reflexão valiosa. Durante uma cena de investigação, você pode gastar uma ação padrão para trazer suas teorias e análises obscuras em voz alta, implantando paranoia em quem puder ouvir. Agentes voluntários que estiverem presentes no ambiente, incluindo você, podem escolher dar ouvidos às suas falas. Caso aceitem, rolam 1d6 e recebem o resultado em bônus para testes baseados em Intelecto e Presença até o fim da cena, mas também perdem o valor da rolagem em SAN.",
+    "requirement": null
+  },
+  {
+    "name": "Profissão Perigo",
+    "description": "Em situações difíceis, você sabe dar valor à qualquer coisa, podendo transformar a tralha mais insignificante em algo útil. Você pode gastar uma ação completa e 4 PE para desmontar seus equipamentos e construir algo novo utilizando os seus materiais. Ao fazer isso, você se desfaz de um item qualquer em seu inventário e recebe um novo item operacional à sua escolha no lugar dele. O item escolhido não deve ultrapassar a categoria e os espaços do item sacrificado. Você só pode fazer isso três vezes por missão.",
+    "requirement": null
+  },
+  {
+    "name": "Quase Novo",
+    "description": "Ao fazer uma ação de manutenção durante uma cena de interlúdio, o item reparado recebe +10 PV adicionais. Além disso, você pode usar a mesma ação para adicionar ao equipamento uma nova modificação temporária de uma categoria que possa acessar. A modificação dura até o início da próxima cena de interlúdio.",
+    "requirement": null
+  },
+  {
+    "name": "Adepto do Escuro",
+    "description": "Você ignora camuflagem leve e total por escuridão. Além disso, recebe +5 em testes de Investigação e Percepção feitos em ambientes de penumbra (pouca luz, iluminado somente por lanternas, velas ou ao pôr do sol, por exemplo).",
+    "requirement": null
+  },
+  {
+    "name": "Saudosista High-Tech",
+    "description": "Você recebe +5 em testes de Tecnologia para lidar com aparelhos eletrônicos anteriores aos anos 2000. Além disso, recebe +5 em testes para consertar itens tecnológicos. Finalmente, você consegue usar essas velharias junto de tecnologias atuais para receber uma ação extra na primeira rodada de uma cena de hacking.",
+    "requirement": null
+  },
+  {
+    "name": "Treinado nas Telas",
+    "description": "O tempo gasto à frente dos videogames te proporcionou olhos treinados e uma melhora significativa em seu tempo de reação. Quando faz um teste de Iniciativa ou de Reflexos, pode gastar 1 PE para somar Intelecto nesse teste.",
+    "requirement": null
+  },
+  {
+    "name": "Doutor em Emergências",
+    "description": "Sua eficiência como socorrista é ainda melhor. Qualquer cicatrizante ou medicamento que recupere pontos de vida, ou forneça pontos de vida temporários, aplicados por você recebe 1d8 PV adicionais em seu efeito (um cicatrizante recupera 3d8+2 PV, enquanto um anti-inflamatório fornece 2d8+2 PV temporários). Além disso, você recebe +5 em testes de Medicina para aplicar tratamento, e, se passar no teste, o paciente recebe +10 em seu próximo teste de Fortitude contra a doença ou veneno, em vez de +5.",
+    "requirement": "Especialista em Emergências."
+  },
+  {
+    "name": "Farmacêutico de Campo",
+    "description": "Você se especializou na fabricação e administração de cicatrizantes e medicamentos. Uma vez por cena de interlúdio em que tenha um kit de medicina, escolha um cicatrizante ou medicamento e gaste 2 PE, mais 2 PE por categoria do item escolhido. Você cria o item. Quando o mesmo kit de medicina é usado 3 vezes por esta habilidade, ele é consumido. Você pode usar esse poder novamente na mesma cena, mas para cada uso além do primeiro, também precisa gastar uma ação de interlúdio.",
+    "requirement": "Treinado em Medicina e Profissão (químico ou similar)."
+  },
+  {
+    "name": "Médico da Salvação",
+    "description": "Você se especializou em salvar vidas. Os dados de sua habilidade de médico de campo Paramédico aumentam de d10 para d12. Além disso, quando usa a habilidade Paramédico, você pode gastar 3 PE, uma vez por rodada, para usá-la como uma ação de movimento, em vez de ação padrão.",
+    "requirement": "Paramédico."
+  },
+  {
+    "name": "Resgatar da Morte",
+    "description": "Não haverá baixas no seu turno. Quando faz um teste de primeiros socorros, você pode gastar 2 PE para obter sucesso automático nesse teste. Você só pode usar essa habilidade no mesmo ser uma vez por cena.",
+    "requirement": "Veterano em Medicina."
+  },
+  {
+    "name": "Veterano da Equipe de Trauma",
+    "description": "Você é o melhor entre os melhores. Quando usa a habilidade de médico de campo Equipe de Trauma, você remove até três condições negativas (exceto morrendo), em vez de apenas uma.",
+    "requirement": "Paramédico, Equipe de Trauma."
+  }
+]

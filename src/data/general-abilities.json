@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Acrobático",
+    "description": "Você possui um talento natural para piruetas, cambalhotas e outras acrobacias complexas. Você recebe treinamento em Acrobacia ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, terreno difícil não reduz seu deslocamento nem o impede de realizar investidas.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Ás do Volante",
+    "description": "Você é um apaixonado por velocidade, e tem a coragem (ou falta de juízo) necessária para executar qualquer manobra. Você recebe treinamento em Pilotagem ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, uma vez por rodada, quando um veículo que você está pilotando sofre dano, você pode fazer um teste de Pilotagem (DT igual ao resultado do teste de ataque ou à DT do efeito que causou o dano). Se passar, evita esse dano.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Atlético",
+    "description": "Você possui um corpo atlético, resultado de uma fortuita disposição genética ou árduo treinamento. Você recebe treinamento em Atletismo ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, recebe +3m em seu deslocamento.",
+    "requirement": "For 2."
+  },
+  {
+    "name": "Atraente",
+    "description": "Seja por pura beleza física ou por sua postura e atitude, você atrai olhares por onde passa. Você recebe +5 em testes de Artes, Diplomacia, Enganação, e Intimidação contra pessoas que possam se sentir fisicamente atraídas por você.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Dedos Ágeis",
+    "description": "Você possui uma motricidade fina precisa, particularmente útil para manipular ferramentas delicadas. Você recebe treinamento em Crime ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, pode arrombar com uma ação padrão, furtar com uma ação livre (apenas uma vez por rodada) e sabotar com uma ação completa.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Detector de Mentiras",
+    "description": "Você possui uma aptidão para perceber os sutis sinais de alguém que está mentindo. Você recebe treinamento em Intuição ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, outros seres sofrem uma penalidade de –10 em testes de Enganação para mentir para você.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Especialista em Emergências",
+    "description": "Você recebeu treinamento como socorrista de emergência, e sabe como tratar um paciente em situações de urgência. Você recebe treinamento em Medicina ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, pode aplicar cicatrizantes e medicamentos como uma ação de movimento e, uma vez por rodada, pode sacar um desses itens como uma ação livre.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Estigmado",
+    "description": "A adrenalina causada pela dor faz você se manter focado no que está acontecendo. Sempre que sofre dano mental de efeitos de medo, você pode converter esse dano em perda de pontos de vida (se sofre 5 pontos de dano mental de medo você pode, em vez disso, perder 5 pontos de vida).",
+    "requirement": null
+  },
+  {
+    "name": "Foco em Perícia",
+    "description": "Você se dedicou a estudar e treinar os vários pormenores de uma área de conhecimento específica. Escolha uma perícia (exceto Luta e Pontaria). Quando faz um teste dessa perícia, você rola +1d20. Você pode escolher este poder outras vezes para perícias diferentes.",
+    "requirement": "treinado na perícia escolhida."
+  },
+  {
+    "name": "Inventário Organizado",
+    "description": "Você sabe como organizar sua mochila e seu equipamento de forma organizada e racional. Você soma seu Intelecto no limite de espaços que pode carregar. Para você, itens muito leves ou pequenos, que normalmente ocupam meio espaço (0,5), em vez disso ocupam 1/4 de espaço (0,25).",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Informado",
+    "description": "Você passa bastante tempo consumindo fofocas… bem, notícias sobre o mundo ao seu redor. Você recebe treinamento em Atualidades ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, pode usar Atualidades no lugar de qualquer outra perícia para testes envolvendo informações, desde que aprovado pelo mestre.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Interrogador",
+    "description": "Você sabe como usar o medo para extrair todo tipo de informação das outras pessoas. Você recebe treinamento em Intimidação ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, pode fazer testes de Intimidação para coagir como uma ação padrão, mas apenas uma vez por cena contra a mesma pessoa.",
+    "requirement": "For 2."
+  },
+  {
+    "name": "Mentiroso Nato",
+    "description": "Você é um cara de pau, capaz de mentir descaradamente sem que ninguém perceba. Você recebe treinamento em Enganação ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, a penalidade que você sofre por mentiras muito implausíveis diminui para –1d20.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Observador",
+    "description": "Você possui uma combinação de sentidos apurados para perceber pistas e intelecto afiado para processá-las. Você recebe treinamento em Investigação ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, soma seu Intelecto em Intuição.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Pai de Pet",
+    "description": "Você adora animais, e cuida de seus pets como se fossem seus filhos. Você recebe treinamento em Adestramento ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, possui um animal de estimação que o auxilia e o acompanha em suas aventuras. Em termos de jogo, é um aliado que fornece +2 em duas perícias a sua escolha (exceto Luta ou Pontaria e aprovadas pelo mestre).",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Palavras de Devoção",
+    "description": "Você combina uma fé verdadeira com o conhecimento dos ritos e tradições de sua religião. Você recebe treinamento em Religião ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, uma vez por cena, pode gastar 3 PE e uma ação completa para executar uma oração para um número de pessoas até o dobro de sua Presença. Até o fim da cena, todos os participantes dessa oração recebem resistência a dano mental 5.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Parceiro",
+    "description": "Em algum momento da sua vida, você conquistou uma amizade fiel e verdadeira; alguém disposto a até mesmo a se arriscar para lhe ajudar. Você possui um parceiro, uma pessoa que o acompanha e o auxilia em suas missões. Escolha os detalhes dele, como nome, aparência e personalidade. Em termos de jogo, é um aliado de um tipo à sua escolha. O parceiro obedece às suas ordens e se arrisca para ajudá-lo, mas, se for maltratado, pode parar de segui-lo (de acordo com o mestre). Se perder seu aliado, você precisa gastar uma folga da Ordem para receber outro.",
+    "requirement": "treinado em Diplomacia. NEX 30%."
+  },
+  {
+    "name": "Pensamento Tático",
+    "description": "Você possui uma mente voltada para análises táticas e pensamento estratégico. Você recebe treinamento em Tática ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, quando você passa em um teste de Tática para analisar terreno, você e seus aliados em alcance médio recebem uma ação de movimento adicional na primeira rodada do próximo combate neste terreno (desde que ele ocorra até o fim do dia).",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Personalidade Esotérica",
+    "description": "Você sempre teve uma afinidade com assuntos esotéricos. Você recebe +3 PE e recebe treinamento em Ocultismo. Se já for treinado nesta perícia, recebe +2 nela.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Persuasivo",
+    "description": "Você possui uma personalidade diplomática e sabe obter o que deseja por meio de argumentação e conversa. Você recebe treinamento em Diplomacia ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, ao fazer um teste para persuasão, a penalidade que você sofre por perguntar ou pedir coisas custosas ou perigosas diminui em –5.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Pesquisador Científico",
+    "description": "Você possui um profundo respeito pela ciência e acredita que ela é a resposta para muitos de seus questionamentos. Você recebe treinamento em Ciências ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, você pode usar Ciências no lugar de Ocultismo e Sobrevivência para identificar criaturas e animais, respectivamente.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Proativo",
+    "description": "Seu negócio é fazer as coisas, e não deixar para depois. Você recebe treinamento em Iniciativa ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, ao rolar um 19 ou 20 em pelo menos um dos dados de um teste de Iniciativa, você recebe uma ação padrão adicional em seu primeiro turno.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Provisões de Emergência",
+    "description": "Você é um sujeito precavido e mantém uma reserva secreta para quando as coisas ficarem ruins. Você possui um esconderijo com equipamentos e suprimentos escondidos para uma situação de emergência. Uma vez por missão, você pode usar uma ação de interlúdio para recuperar o conteúdo de seu esconderijo (pessoalmente ou através de algum contato). Você recebe novos equipamentos a sua escolha equivalente à sua patente no início desta missão (como se tivesse uma nova fase de preparação de missão).",
+    "requirement": null
+  },
+  {
+    "name": "Racionalidade Inflexível",
+    "description": "Suas convicções e sua visão de mundo são baseadas em argumentos racionais e lógicos. Você pode usar Intelecto no lugar de Presença como atributo-chave sde Vontade e para calcular seus pontos de esforço.",
+    "requirement": "Int 3."
+  },
+  {
+    "name": "Rato de Computador",
+    "description": "Você adora computadores e outros dispositivos tecnológicos. Você recebe treinamento em Tecnologia ou, se já for treinado nesta perícia, recebe +2 nela. Você pode hackear, localizar arquivo ou operar dispositivo como uma ação completa e, uma vez por cena de investigação, se tiver acesso a um computador, pode fazer um teste de Tecnologia para procurar pistas sem gastar uma rodada de investigação.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Resposta Rápida",
+    "description": "Seus reflexos são tão apurados que o permitem agir antes mesmo de você perceber as ameaças de forma consciente. Você recebe treinamento em Reflexos ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, ao falhar em um teste de Percepção para evitar ficar desprevenido, você pode gastar 2 PE para rolar novamente o teste usando Reflexos.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Talentoso",
+    "description": "Você possui inclinação para todas as formas de expressão artística. Você recebe treinamento em Artes ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, quando faz um teste de Artes para impressionar, o bônus em perícias que você recebe aumenta em +1 para cada 5 pontos adicionais em que o resultado de seu teste passar a DT.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Teimosia Obstinada",
+    "description": "As pessoas chamam você de teimoso. Mas elas estão erradas! Você recebe treinamento em Vontade ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, quando faz um teste de Vontade contra um efeito que cause uma condição mental ou tente modificar sua categoria de atitude (como o ritual Enfeitiçar), você pode gastar 2 PE para receber +5 neste teste.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Tenacidade",
+    "description": "Seu corpo desenvolveu a capacidade de suportar rigores extremos. Você recebe treinamento em Fortitude ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, ao estar morrendo, mas consciente (com pelo menos 1 PV), você pode fazer um teste de Fortitude (DT 20 + 10 por teste anterior na mesma cena) como ação livre. Se for bem-sucedido, encerra a condição morrendo.",
+    "requirement": "Vig 2."
+  },
+  {
+    "name": "Sentidos Aguçados",
+    "description": "Todos os seus sentidos são mais aguçados que o normal. Você recebe treinamento em Percepção ou, se já for treinado nessa perícia, recebe +2 nela. Além disso, não fica desprevenido contra inimigos que não possa ver e, sempre que erra um ataque devido a camuflagem, pode rolar mais uma vez o dado da chance de falha.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Sobrevivencialista",
+    "description": "Você aprecia — ou aprecia enfrentar — a natureza. Você recebe treinamento em Sobrevivência ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, você recebe +2 em testes para resistir a efeitos de clima e terreno difícil natural não reduz seu deslocamento nem impede que você execute investidas.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Sorrateiro",
+    "description": "Você sabe ser discreto em qualquer situação. Você recebe treinamento em Furtividade ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, você não sofre penalidades por se mover normalmente enquanto está furtivo, nem por seguir alguém em ambientes sem esconderijos ou sem movimento.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Vitalidade Reforçada",
+    "description": "Você possui uma capacidade superior de suportar ferimentos. Você recebe +1 PV para cada 5% de NEX e +2 em Fortitude.",
+    "requirement": "Vig 2."
+  },
+  {
+    "name": "Vontade Inabalável",
+    "description": "Sua mente é preparada para suportar os mais rigorosos traumas. Você recebe +1 PE para cada 10% de NEX e +2 em Vontade.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Artista Marcial",
+    "description": "Seus ataques desarmados causam 1d6 pontos de dano, podem causar dano letal e se tornam ágeis. Em NEX 35%, o dano aumenta para 1d8 e, em NEX 70%, para 1d10.",
+    "requirement": null
+  },
+  {
+    "name": "Combater com Duas Armas",
+    "description": "Se estiver empunhando duas armas (e pelo menos uma for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –1d20 em todos os testes de ataque até o seu próximo turno.",
+    "requirement": "Agi 3, treinado em Luta ou Pontaria."
+  },
+  {
+    "name": "Saque Rápido",
+    "description": "Você pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, caso esteja usando a regra opcional de contagem de munição, uma vez por rodada pode recarregar uma arma de disparo como uma ação livre.",
+    "requirement": "treinado em Iniciativa."
+  },
+  {
+    "name": "Tiro Certeiro",
+    "description": "Se estiver usando uma arma de disparo, você soma sua Agilidade nas rolagens de dano e ignora a penalidade contra alvos envolvidos em combate corpo a corpo (mesmo se não usar a ação mirar).",
+    "requirement": "treinado em Pontaria."
+  },
+  {
+    "name": "Cicatrizes Expostas",
+    "description": "Você tem cicatrizes graves, físicas ou psicológicas, que podem deixá-lo em um estado de ira caso sejam expostas. Você pode gastar uma ação de movimento para expor sua cicatriz. Quando o fizer, você causa +1d8 pontos de dano do mesmo tipo, mas sobre –1d20 em testes de Vontade e testes que exijam calma, como ficar furtivo ou traduzir um idioma. Se outro ser expor sua cicatriz, mesmo contra sua vontade, os mesmos efeitos se aplicam. Os efeitos duram até o fim da cena.",
+    "requirement": "ter cicatrizes."
+  },
+  {
+    "name": "Curiosidade Oculta",
+    "description": "Seu gosto bizarro pelo oculto abriu sua mente. Você recebe treinamento em Ocultismo ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, quando faz um teste de Vontade, você pode gastar 2 PE para trocar a perícia por Ocultismo.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Especialista Exotérico",
+    "description": "Poucos compreendem o uso de catalisadores ritualísticos como você. Ao conjurar um ritual, você pode combinar os efeitos de até três catalisadores ritualísticos diferentes ao mesmo tempo.",
+    "requirement": "Int 3, conjurar ritual de 2º círculo, Domínio Esotérico."
+  },
+  {
+    "name": "Habilidade Aprimorada",
+    "description": "Escolha uma habilidade ou um ritual que tenha DT. A DT para resistir a essa habilidade ou ritual aumenta em +2. Você pode escolher este poder outras vezes para habilidades e rituais diferentes, e até duas vezes para uma mesma habilidade ou ritual (neste caso, a DT aumenta em um total de +5).",
+    "requirement": null
+  },
+  {
+    "name": "Instintos Urbanos",
+    "description": "Você não confia na “sociedade civilizada” e está pronto para sobreviver na selva de concreto. Você recebe treinamento em Crime ou, se já for treinado nesta perícia, receba +2 nela. Além disso, quando entra em um ambiente fechado, pode fazer um teste de Crime (DT 20) para identificar as melhores saídas. Se passar, você identifica uma rota de fuga. Em termos de regras, se decidir escapar do lugar, você recebe uma ação de movimento extra no primeiro turno da fuga e +2 na Defesa até fugir. Se o lugar não tiver rotas de fuga identificáveis, você recebe +2 na Defesa enquanto estiver nele.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Revidar Violento",
+    "description": "Seu treinamento com contra-ataques deu resultados. Você pode fazer uma segunda reação especial de defesa na mesma rodada, desde que ela seja um contra-ataque.",
+    "requirement": "For 2 ou Agi 2."
+  },
+  {
+    "name": "Corpo Fechado",
+    "description": "Seu treinamento com bloqueios deu resultados. Você pode fazer uma segunda reação especial de defesa na mesma rodada, desde que ela seja um bloqueio.",
+    "requirement": "Vig 2."
+  },
+  {
+    "name": "Esquiva Tática",
+    "description": "Seu treinamento com esquivas deu resultados. Você pode fazer uma segunda reação especial de defesa na mesma rodada, desde que ela seja uma esquiva.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Palpite Confiante",
+    "description": "Há momentos em que você tem certeza de algo mesmo não sabendo como. Quando faz um teste de perícia baseado em Intelecto ou Presença, você pode gastar 1 PE para somar seu Intelecto no teste.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Especialista em Correntes",
+    "description": "Você aprendeu a manipular correntes ou semelhantes como cordas para manter itens seguros. Você pode gastar uma ação completa para prender um item qualquer em uma corrente bem amarrada ao seu corpo (ou ao corpo de outra pessoa, se quiser usar essa técnica em um aliado em alcance de toque, por exemplo). O item preso não pode ser desarmado ou retirado, sendo necessário quebrar a corrente em que o objeto está preso para soltá-lo. Além disso, seu alcance de ataque corpo a corpo com correntes, similares e itens acorrentados, aumenta em +3m e você recebe +2 em testes de manobras feitos com esses itens. Andar com vários itens presos assim é desconfortável: cada item além do primeiro causa –1 em testes de perícias afetadas por carga.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Puxar para Briga",
+    "description": "Você aprendeu a manter seus inimigos perto. Quando você acerta um ataque com uma corrente ou semelhante (chicote, corda etc.), pode gastar 2 PE para puxar o alvo para um espaço vazio adjacente à você. Se o alvo se afastar voluntariamente de você, ele sofre –1d20 em testes de ataque contra outros alvos que não sejam você por 1 rodada.",
+    "requirement": "For 2 ou Agi 2, treinado em Luta, Especialista em Correntes."
+  },
+  {
+    "name": "Práticas com Materiais Ritualísticos",
+    "description": "Você domina materiais usados em rituais com precisão. Quando executa uma conjuração complexa, você não sofre –1d20 para empregar materiais específicos de uma Entidade durante a 1ª etapa.",
+    "requirement": "Int 2, treinado em Ocultismo, capacidade de conjurar rituais."
+  },
+  {
+    "name": "Estágio Terminal",
+    "description": "A proximidade da morte acelera seu coração e incendeia seus músculos. Uma vez por rodada, quando está machucado, você pode gastar 2 PE para fazer uma ação de movimento extra.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Hora da Ascensão",
+    "description": "A critério do mestre, se você estiver enfrentando um desafio (uma ameaça, um perigo, um enigma etc.) e a Ascensão estiver envolvida e motivando-o de alguma forma, você aprende a conjurar um único ritual de Conhecimento de 1º círculo como se o conhecesse (ele não conta para o limite de rituais). À partir do NEX 25%, pode escolher rituais de Conhecimento de 2º círculo e, em NEX 55%, pode escolher de 3º círculo. Uma vez escolhido o ritual, ele permanece disponível até o fim da cena. Você não pode ter dois rituais disponíveis na mesma cena, simultaneamente ou não.",
+    "requirement": "Pre 2, capacidade de conjurar rituais, ser Eleito."
+  },
+  {
+    "name": "Tratamento de Emergência",
+    "description": "Existem aplicações medicinais arriscadas que você ousou aprender para manter seus aliados em ação. Você pode gastar 2 PE e uma ação padrão para fornecer 2d10+10 PV temporários a um ser em alcance de toque. Quando todos os pontos forem perdidos, o ser fica fraco até o fim da cena. O mesmo alvo não pode ser beneficiado novamente por essa habilidade na mesma cena.",
+    "requirement": "Int 2, treinado em Medicina."
+  },
+  {
+    "name": "Arte da Música Macabra",
+    "description": "Você é capaz de influenciar sutilmente a Realidade permitindo que sua música suplique efeitos para o Outro Lado. Você pode gastar uma ação padrão e 2 PE para causar um dos efeitos a seguir em 1 ser em alcance curto que possa ouvi-lo:\n• O próximo dano que o alvo causar aumenta em +5.\n• O próximo ataque do alvo recebe +2 na margem de ameaça.\n• O próximo teste de ataque do alvo recebe bônus de +5.\n• O alcance do próximo ataque ou habilidade que o alvo usar recebe +9m de alcance.\n",
+    "requirement": "Pre 2, treinado em Artes e Ocultismo, capacidade de conjurar rituais."
+  },
+  {
+    "name": "Sintonização Mental com Arma",
+    "description": "Você suplica ao Outro Lado para que o paranormal crie uma sintonização entre você e uma arma. Em uma cena de interlúdio, você pode gastar uma ação de interlúdio de 3 PE para se sintonizar paranormalmente com uma arma que esteja empunhando. Até o início da próxima cena de interlúdio, a arma sintonizada passa a usar um atributo a sua escolha para testes de ataque e dano, em vez do padrão. Esse efeito só funciona se a arma estiver sendo empunhada por você.",
+    "requirement": "Int 2 ou Pre 2, treinado em Ocultismo, capacidade de conjurar rituais."
+  },
+  {
+    "name": "Sintonização Mental com Proteção",
+    "description": "Você suplica ao Outro Lado para que o paranormal crie uma sintonização entre você e uma proteção. Em uma cena de interlúdio, você pode gastar uma ação de interlúdio e 3 PE para se sintonizar paranormalmente com uma proteção que esteja vestindo. Até o início da próxima cena de interlúdio, a proteção sintonizada passa a usar um atributo a sua escolha para Defesa, em vez de Agilidade. Além disso, você não fica em condição ruim ou terrível para conjurar. Esses efeitos só funcionam se a proteção estiver sendo vestida por você.",
+    "requirement": "Int 2 ou Pre 2, treinado em Ocultismo, capacidade de conjurar rituais."
+  },
+  {
+    "name": "Movimentação Tática",
+    "description": "Se mover em combate é instintivo para você. Se você se mover em direção a uma cobertura ou um inimigo, pode gastar 1 PE para percorrer o dobro do seu deslocamento.",
+    "requirement": "For 2, treinado em Atletismo e Tática."
+  },
+  {
+    "name": "Instintos Táticos",
+    "description": "Seu treinamento militar mantém seus sentidos alertas. Você fica imune a condição desprevenido e, quando causar dano em um alvo, pode gastar 2 PE para que ele falhe automaticamente em testes de Furtividade contra você por 1 rodada.",
+    "requirement": "Pre 2, treinado em Percepção e Tática."
+  },
+  {
+    "name": "Ambidestria",
+    "description": "Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazerdois ataques, um com cada arma. Se fizer isso, sofre –1d20 em todos os testes de ataque até o seu próximo turno. Se tiver Combater com Duas Armas, em vez disso você não sofre penalidade para usá-lo e pode empunhar duas armas de uma mão.",
+    "requirement": "For 2 ou Agi 2, treinado em Luta."
+  },
+  {
+    "name": "Entrada Triunfal",
+    "description": "Você sabe como chegar chegando. Ao entrar em um ambiente, uma vez por sessão, você pode anunciar sua chegada em voz alta para que todos os presentes escutem. Ao fazer isso, você recebe +2d20 no primeiro teste que fizer no ambiente, exceto em um teste de Furtividade. Se preferir, você pode, como reação, transferir o bônus para o primeiro teste de um aliado em alcance longo no mesmo ambiente.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Papinho Sedutor",
+    "description": "Você sabe usar as palavras para seduzir. Quando faz um teste de perícia baseado em Presença para seduzir alguém, você pode gastar 1 PE para receber +5 nesse teste. Se passar, o alvo fica apaixonado por você. Entretanto, enquanto ele estiver apaixonado, ele pode se tornar um problema na sua vida, a critério do mestre (como ficar obcecado por você ou sempre aparecer em momentos inoportunos).",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Gororoba",
+    "description": "Sopa de cereal com bebida energética? Seu paladar é um tanto quanto peculiar. Em uma cena de interlúdio, você pode alimentar-se uma vez sem gastar uma ação e sem precisar de fato ter acesso à refeição (você improvisa com os restos que encontra).",
+    "requirement": null
+  },
+  {
+    "name": "Ruído Branco",
+    "description": "O barulho de um ambiente caótico se torna ruído para sua concentração. Enquanto estiver em um ambiente movimentado ou um local com muitas conversas paralelas, você recebe +1d6 em testes de Investigação e Percepção. Além disso, à critério do mestre, pode gastar 1 PE, uma vez por cena, para ouvir entre as vozes uma conversa que forneça uma informação útil para a missão.",
+    "requirement": "Int 3."
+  },
+  {
+    "name": "Uma Última Olhada",
+    "description": "É melhor prevenir do que remediar. Na última rodada de uma cena de investigação, você pode gastar 2 PE, uma vez por cena, para cobrar mais esforço de todos, aproveitando o pouco tempo que tem para analisar tudo rapidamente com seu grupo. Em termos de regras, o número de rodadas disponíveis aumenta em +1.",
+    "requirement": null
+  },
+  {
+    "name": "Apaixonado por Veículos",
+    "description": "Você se tornou um amante de veículos. Você recebe treinamento em Pilotagem ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, qualquer teste que fizer envolvendo garantir a segurança especificamente do veículo, a critério do mestre, recebe +1d20. Se estiver usando a regra de Veículos Operacionais, você pode adicionar 1 regalia no seu veículo e essa regalia não conta para o limite de regalias dele.",
+    "requirement": "Agi 2."
+  },
+  {
+    "name": "Desafiar o Ego",
+    "description": "Uma vez por rodada, quando presenciar um ataque sendo feito por um aliado, você pode, como reação, gastar 1 PE e gritar palavras de incentivo ou provocação à ele. Se o ataque acertar, o aliado causa dano extra igual ao valor da sua Presença. Se o ataque errar, você recupera o PE gasto.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Direção Defensiva",
+    "description": "Você é um motorista precavido e com senso de preservação. Você recebe treinamento em Pilotagem ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, se você estiver dirigindo, todos os seres dentro do veículo, incluindo você, recebem +2 na Defesa e em testes de resistência. Se estiver usando a regra de Veículos Operacionais, seu veículo também recebe +2 na Defesa.",
+    "requirement": null
+  },
+  {
+    "name": "Adaptação Climática",
+    "description": "Através de treinamentos contra hipotermia e hipertermia, você se tornou mais resistente ao clima. Você recebe +2 em Fortitude e não sofre dano por clima muito quente, muito frio, calor extremo ou frio extremo.",
+    "requirement": "Vig 2."
+  },
+  {
+    "name": "Especialista em Armas Improvisadas",
+    "description": "Você treinou com armas improvisadas até dominá-las. Você não sofre penalidade em testes de ataque por usar uma arma improvisada. Além disso, suas rolagens de dano com armas improvisadas recebem +1 dado de dano extra do mesmo tipo (uma cadeira que causa 1d6 pontos de dano de impacto passa a causar 2d6, por exemplo).",
+    "requirement": "For 2 ou Agi 2, treinado em Luta."
+  },
+  {
+    "name": "Muito Sorrateiro",
+    "description": "Suas habilidades de discrição beiram a inexistência. Quando uma cena de furtividade começa, role 1d4 e subtraia o valor da sua visibilidade inicial. Por exemplo, se começaria com visibilidade 0 e rola 2 no d4, no início da cena de furtividade, sua visibilidade é –2. Além disso, você recebe +3 em Furtividade.",
+    "requirement": "Sorrateiro."
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Aniquilador",
+    "description": "Você é treinado para abater alvos com eficiência e velocidade. Suas armas são suas melhores amigas e você cuida tão bem delas quanto de seus companheiros de equipe. Talvez até melhor.",
+    "nex10": {
+      "name": "A Favorita",
+      "description": "Escolha uma arma para ser sua favorita, como katana ou fuzil de assalto. A categoria da arma escolhida é reduzida em I."
+    },
+    "nex40": {
+      "name": "Técnica Secreta",
+      "description": "A categoria da arma favorita passa a ser reduzida em II. Quando faz um ataque com ela, você pode gastar 2 PE para executar um dos efeitos abaixo como parte do ataque. Você pode adicionar mais efeitos gastando +2 PE por efeito adicional. <ul><li><strong><i>Amplo. </i></strong>O ataque pode atingir um alvo adicional em seu alcance e adjacente ao original (use o mesmo teste de ataque para ambos).</li><li><strong><i>Destruidor. </i></strong>Aumenta o multiplicador de crítico da arma em +1.</li></ul>"
+    },
+    "nex65": {
+      "name": "Técnica Sublime",
+      "description": "Você adiciona os seguintes efeitos à lista de sua Técnica Secreta: <ul><li><strong><i>Letal. </i></strong>Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5.</li><li><strong><i>Perfurante. </i></strong>Ignora até 5 pontos de resistência a dano de qualquer tipo do alvo.</li></ul>"
+    }
+  },
+  {
+    "name": "Comandante de Campo",
+    "description": "Sem um oficial uma batalha não passa de uma briga de bar. Você é treinado para coordenar e auxiliar seus companheiros em combate, tomando decisões rápidas e tirando melhor proveito da situação e do talento de seus aliados.",
+    "nex10": {
+      "name": "Inspirar Confiança",
+      "description": "Sua liderança inspira seus aliados. Você pode gastar uma reação e 2 PE para fazer um aliado em alcance curto rolar novamente um teste recém realizado."
+    },
+    "nex40": {
+      "name": "Estrategista",
+      "description": "Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PE por aliado que quiser direcionar (limitado pelo seu Intelecto). No próximo turno dos aliados afetados, eles ganham uma ação de movimento adicional."
+    },
+    "nex65": {
+      "name": "Brecha na Guarda",
+      "description": "Uma vez por rodada, quando um aliado causar dano em um inimigo que esteja em seu alcance curto, você pode gastar uma reação e 2 PE para que você ou outro aliado em alcance curto faça um ataque adicional contra o mesmo inimigo. Além disso, o alcance de Inspirar Confiança e estrategista aumenta para Médio."
+    }
+  },
+  {
+    "name": "Guerreiro",
+    "description": "Você treinou sua musculatura e movimentos a ponto de transformar seu corpo em uma verdadeira arma. Com golpes corpo a corpo tão poderosos quanto uma bala, você enfrenta inimigos sem medo.",
+    "nex10": {
+      "name": "Técnica Letal",
+      "description": "Você recebe um aumento de +2 na margem de ameaça com todos os seus ataques corpo a corpo."
+    },
+    "nex40": {
+      "name": "Revidar",
+      "description": "Sempre que bloquear um ataque, você pode gastar uma reação e 2 PE para fazer um ataque corpo a corpo no inimigo que o atacou."
+    },
+    "nex65": {
+      "name": "Força Opressora",
+      "description": "Quando acerta um ataque corpo a corpo, você pode gastar 1 PE para realizar uma manobra derrubar ou empurrar contra o alvo do ataque como ação livre. Se escolher empurrar, recebe um bônus de +5 para cada 10 pontos de dano que causou no alvo. Se escolher derrubar e vencer no teste oposto, você pode gastar 1 PE para fazer um ataque adicional contra o alvo caído."
+    }
+  },
+  {
+    "name": "Operações Especiais",
+    "description": "Você é um combatente eficaz. Suas ações são calculadas e otimizadas, sempre antevendo os movimentos inimigos e se posicionando da maneira mais inteligente no campo de batalha.",
+    "nex10": {
+      "name": "Iniciativa Aprimorada",
+      "description": "Você recebe +5 em Iniciativa e uma ação de movimento adicional na primeira rodada."
+    },
+    "nex40": {
+      "name": "Ataque Extra",
+      "description": "Uma vez por rodada, quando faz um ataque, você pode gastar 2 PE para fazer um ataque adicional."
+    },
+    "nex65": {
+      "name": "Surto de Adrenalina",
+      "description": "Uma vez por rodada, você pode gastar 5 PE para realizar uma ação padrão ou de movimento adicional."
+    }
+  },
+  {
+    "name": "Tropa de Choque",
+    "description": "Você é duro na queda. Treinou seu corpo para resistir a traumas físicos, tornando-o praticamente inquebrável, e por isso não teme se colocar entre seus aliados e o perigo.",
+    "nex10": {
+      "name": "Casca Grossa",
+      "description": "Você recebe +1 PV para cada 5% de NEX e, quando faz um bloqueio, soma seu Vigor na resistência a dano recebida."
+    },
+    "nex40": {
+      "name": "Cai Dentro",
+      "description": "Sempre que um oponente em alcance curto ataca um de seus aliados, você pode gastar uma reação e 1 PE para fazer com que esse oponente faça um teste de Vontade (DT Vig). Se falhar, o oponente deve atacar você em vez de seu aliado. Este poder só funciona se você puder ser efetivamente atacado e estiver no alcance do ataque (por exemplo, adjacente a um oponente atacando em corpo a corpo ou dentro do alcance de uma arma de ataque à distância). Um oponente que passe no teste de Vontade não pode ser afetado por seu poder Cai Dentro até o final da cena."
+    },
+    "nex65": {
+      "name": "Duro de Matar",
+      "description": "Ao sofrer dano não paranormal, você pode gastar uma reação e 2 PE para reduzir esse dano à metade. Em NEX 85%, você pode usar esta habilidade para reduzir dano paranormal."
+    }
+  },
+  {
+    "name": "Agente Secreto",
+    "description": "Às vezes, um governo precisa lidar com um problema de forma discreta — por precisar operar fora de sua jurisdição, para não assustar a população ou por vários outros motivos. Quando esse é o caso, usam-se agentes secretos, indivíduos treinados para trabalhar sozinhos ou em pequenos grupos, que contam apenas com suas próprias habilidades, determinação e sorrisos carismáticos. Você se tornou um desses agentes e, por suas capacidades, foi escolhido para a missão mais confidencial de todas — trabalhar com a Ordo Realitas para proteger a humanidade contra o Outro Lado.",
+    "nex10": {
+      "name": "Carteirada",
+      "description": "Escolha uma perícia entre Diplomacia ou Enganação. Você recebe treinamento na perícia escolhida ou, se já for treinado, recebe +2 nela. Como parte do esforço conjunto da sua agência e da Ordem, no início de cada missão você recebe documentos que lhe fornecem privilégios jurídicos especiais. Esses documentos podem incluir a sua identidade verdadeira ou não, e podem ser individuais ou incluir os demais membros da sua equipe (conforme apropriado à missão). Os benef ícios específicos desses documentos ficam a critério do mestre, mas em geral incluem acesso a locais restritos ou proibidos, permissão para portar armas de fogo e autoridade para assumir a jurisdição de investigações da polícia. Pessoas comuns não conseguem perceber que seus documentos são falsos, mas membros de agências de segurança ou indivíduos veteranos em Crime podem desconfiar de sua veracidade. Os documentos contam como itens operacionais que não ocupam espaço — mas cuidado para não perdê-los em locais onde novos não podem ser fornecidos!"
+    },
+    "nex40": {
+      "name": "O Sorriso",
+      "description": "Em seu trabalho como agente, você aprendeu que se manter contido com um sorriso “sincero” e palavras gentis são ferramentas muito eficientes em uma investigação. Você recebe +2 em Diplomacia e Enganação e, quando falha em um teste de uma dessas perícias, pode gastar 2 PE para repetir a rolagem (apenas uma vez por teste), mas deve aceitar o novo resultado, mesmo que seja pior que o primeiro. Por fim, uma vez por cena, você pode fazer um teste de Diplomacia para acalmar a si mesmo."
+    },
+    "nex65": {
+      "name": "Multifacetado",
+      "description": "Viver sob vários disfarces tem sido útil, mas você faz isso há tanto tempo que talvez nem se lembre mais quem é de verdade. Essas habilidades que surgem quando você precisa foram aprendidas em disfarces anteriores, ou são apenas sua mente buscando uma saída? Uma vez por cena, você pode gastar 5 pontos de Sanidade para receber todas as habilidades de até NEX 40% de uma trilha de combatente ou especialista à sua escolha (você deve cumprir quaisquer pré-requisitos específicos da trilha). Você pode usar essas habilidades até o fim da cena, mas não pode escolher a mesma trilha mais de uma vez na mesma missão. Os pontos de Sanidade gastos para ativar essa habilidade só podem ser recuperados ao fim da missão."
+    }
+  },
+  {
+    "name": "Caçador",
+    "description": "Em um mundo cheio de predadores sobrenaturais, você decidiu não ser mais uma presa. Valendo-se de relatos de segunda mão, notícias de jornais e relatórios de incidentes inexplicáveis, você reúne informações sobre como caçar as coisas que espreitam na escuridão.",
+    "nex10": {
+      "name": "Rastrear o Paranormal",
+      "description": "Você estudou criaturas paranormais o suficiente para saber como identificar seus sinais e seguir seus rastros. Você recebe treinamento em Sobrevivência ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, pode usar essa perícia no lugar de Ocultismo para identificar criaturas e no lugar de Investigação e Percepção para perceber e encontrar rastros, pistas e criaturas que tenham traços paranormais."
+    },
+    "nex40": {
+      "name": "Estudar Fraquezas",
+      "description": "Você acredita que todo ser, mesmo aqueles do Outro Lado, tem uma fraqueza. E você vai encontrá-la… você precisa! Você pode gastar uma ação de interlúdio estudando as fraquezas de um ser específico, como uma criatura paranormal ou um membro de um culto. Para isso, você precisa de uma pista diretamente ligada ao ser, como uma parte do seu corpo ou de suas vestes. Ao fim dos estudos, você recebe uma informação útil sobre o ser. Isso pode ser uma característica relevante (“a criatura é do elemento Sangue”) ou uma informação sobre seus hábitos (“apesar de matar qualquer coisa, ela parece preferir idosos”). Além das informações, para cada pista você recebe +1 em testes de perícia contra a criatura até o fim da missão. Cada pista fornece apenas uma informação e, a critério do mestre, informações diferentes podem exigir pistas específicas."
+    },
+    "nex65": {
+      "name": "Atacar das Sombras",
+      "description": "Você aprende a usar as sombras contra o Paranormal. Você não sofre a penalidade de –1d20 em testes de Furtividade por se mover ao seu deslocamento normal e, se estiver usando uma arma que não faça barulho (como uma faca ou um arco), a penalidade que você sofre em Furtividade por atacar na mesma rodada é reduzida para –1d20. Além disso, sua visibilidade inicial em cenas de furtividade é sempre 1 ponto abaixo da inicial (podendo ser negativa)."
+    }
+  },
+  {
+    "name": "Monstruoso",
+    "description": "Muito se fala sobre os ocultistas escolherem o caminho de tornarem sua mente uma porta para o paranormal, na tentativa de usá-lo contra ele mesmo, mas de vez em quando, um combatente é corajoso ou insano o bastante para fazer o mesmo com seu corpo. Você propositalmente desfigura e altera seu corpo para que as Entidades o invadam com maior intensidade; contudo, para sua infelicidade, os métodos para isso costumam ser brutais. Combatentes dessa trilha que chegam aos níveis mais altos de exposição inevitavelmente perdem o controle e se tornam inimigos da Ordem.",
+    "nex10": {
+      "name": "Ser Amaldiçoado",
+      "description": "Em suas veias corre uma maldição paranormal que aos poucos o está transformando em um monstro. Você se torna treinado em Ocultismo (se já for treinado, em vez disso recebe +2 nessa perícia). Escolha um elemento paranormal entre Sangue, Morte, Conhecimento ou Energia. Uma vez por dia, você precisa executar uma etapa ritualística desse elemento (por exemplo, beber sangue humano para Sangue, inalar cinzas de mortos para Morte, tatuar palavras que causam medo para Conhecimento ou receber choques de cabos elétricos para Energia). Se fizer isso, até o fim do dia você recebe os efeitos descritos a seguir, conforme o elemento escolhido. Caso contrário, você sofre de fome e sede nesse dia. Por fim, se adquirir afinidade com um elemento, deverá escolher aquele selecionado para esta habilidade.<ul><li><strong><span class='bg-danger'>SANGUE</span></strong> Suas presas ficam protuberantes e seus olhos se tornam vermelhos. Você recebe resistência a balístico e Sangue 5 e faro e, quando faz um contra-ataque bem-sucedido, soma seu Vigor na rolagem de dano, mas sofre –1d20 em Ciências e Intuição.</li><li><strong><span class='bg-black'>MORTE</span></strong> Você fica pálido e seu metabolismo se torna bem mais lento. Você recebe resistência a perfuração e Morte 5 e imunidade a fadiga e soma sua Força em seu total de pontos de vida, mas sofre –1d20 em Diplomacia e Enganação.</li><li><strong><span class='bg-warning'>CONHECIMENTO</span></strong> Seus olhos são banhados em um dourado sobrenatural. Você recebe resistência a balístico e Conhecimento 5 e visão no escuro e soma seu Intelecto na Defesa, mas sofre –1d20 em Atletismo e Acrobacia.</li><li><strong><span class='bg-violet'>ENERGIA</span></strong> Sua pele ganha cicatrizes de queimaduras elétricas com múltiplas cores. Você recebe resistência a corte, eletricidade, fogo e Energia 5 e soma sua Agilidade na RD recebida por um bloqueio bem-sucedido, mas sofre –1d20 em Investigação e Percepção.</li></ul>"
+    },
+    "nex40": {
+      "name": "Ser Macabro",
+      "description": "Conforme sua humanidade é substituída pela Entidade, as mudanças em seu corpo e mente se intensificam. A resistência a dano que você recebe por executar a etapa ritualística de seu elemento aumenta para 10, enquanto a penalidade em perícias aumenta para –2O. Por fim, quando executa sua etapa ritualística, você recebe os efeitos adicionais incluídos na descrição de seu elemento, a seguir.<ul><li><strong><span class='bg-danger'>SANGUE</span></strong> Você veste poucas roupas, expondo o máximo de sua pele sensível ao ambiente que puder. Seu corpo já está repleto de cicatrizes e feridas, muitas causadas por você mesmo para saborear a dor. Devorar qualquer coisa que não seja carne ou sangue não é capaz de conter sua fome. Você pode usar Força para calcular seus pontos de esforço (em vez de Presença). Além disso, pode gastar uma ação de movimento e 1 ou mais PE (limitado por sua Força) para recuperar 1d8 PV por PE gasto.</li><li><strong><span class='bg-black'>MORTE</span></strong> Roupas modernas e complexas não parecem fazer sentido pra você. Seus trajes são anacrônicos e simples, às vezes adornado de cristais, esqueletos de pequenas criaturas pendurados, pedras, raízes e plantas mortas. Você recebe +1d20 em Intimidação e pode usar Vigor para calcular seus pontos de esforço (em vez de Presença). Além disso, morre se iniciar quatro turnos morrendo na mesma cena (e não apenas três) e não precisa mais comer ou beber para viver, mas ainda sofre da fome paranormal causada por essa trilha.</li><li><strong><span class='bg-warning'>CONHECIMENTO</span></strong> Você está sempre vestindo joias de ouro puro ou roupas com ouro em suas linhas. Seu corpo está quase inteiramente coberto de palavras que evocam medo, como famosas últimas frases ou pedidos de socorro. Você já sabe que é superior a todos eles. Seu Intelecto aumenta em +1. Além disso, você pode usar Intelecto como atributo-chave para Enganação e para calcular seus pontos de esforço (em vez de Presença).</li><li><strong><span class='bg-violet'>ENERGIA</span></strong> Você está sempre vestindo roupas complexas e modernas, com luzes brilhantes e dispositivos conectados a baterias e à sua pele para receber pequenos choques estimulantes. Você pode usar Agilidade como atributo-chave para calcular seus pontos de esforço (em vez de Presença). Além disso, quando acerta um ataque corpo a corpo, pode gastar 1 ou mais PE (limitado por sua Agilidade). Se fizer isso, seu ataque causa +1d6 pontos de dano de Energia para cada 1 PE gasto.</li></ul>"
+    },
+    "nex65": {
+      "name": "Ser Assustador",
+      "description": "Como um parasita, você sente a Entidade andar por todo o seu corpo, fazendo de você uma morada. A resistência a dano que você recebe por executar a etapa ritualística de seu elemento aumenta para 15, mas sua Presença é reduzida permanentemente em 1. Por fim, quando executa sua etapa ritualística, você recebe os seguintes efeitos adicionais associados ao seu elemento.<ul><li><strong><span class='bg-danger'>SANGUE</span></strong> Você dilacerou seus próprios órgãos sensitivos, como olhos, nariz e orelhas, para que possa sentir com total intensidade o sabor e a dor da sua existência. Arames farpados e lâminas enroladas em seu corpo permitem que você não pare de sentir. A esse ponto, a palavra “não” já parece ser um conceito inútil para suas decisões: você está disposto a aceitar tudo, provar de tudo, sofrer tudo. Você tem 50% de chance de ignorar o dano adicional de um acerto crítico ou ataque furtivo. Além disso, recebe uma arma natural de mordida (dano 1d8, crítico x2, perfuração). Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, você pode gastar 1 PE para fazer um ataque corpo a corpo extra com a mordida.</li><li><strong><span class='bg-black'>MORTE</span></strong> O Lodo preto da Morte faz parte do seu consumo diário, ele se espalha pelo seu organismo apodrecendo seu sistema, mantendo-o vivo através da morte. Não é incomum você ser considerado um “acumulador de lixo”: é difícil diferenciar um animal vivo de um galho morto, pois perante a Morte todas as coisas são iguais. No início de cada turno em que estiver morrendo, você pode fazer um teste de Vigor (DT 15). Se passar, encerra a condição morrendo e acorda com 1 PV. Além disso, sempre que faz um acerto crítico em combate ou reduz um inimigo a 0 PV, você recupera 2 PE.</li><li><strong><span class='bg-warning'>CONHECIMENTO</span></strong> Você injeta e ingere ouro líquido esporadicamente e não há mais espaço para tatuagens. Ler, reler e escrever novos registros faz parte da sua rotina extremamente organizada e metódica. Você pode deixar de ser treinado em uma de suas perícias para receber um número de dados de bônus igual ao seu Intelecto. Até o fim da cena, sempre que fizer um teste, você pode gastar um desses dados de bônus para receber +1d20 nesse teste. Você recupera todas as perícias treinadas perdidas dessa forma ao final de seu próximo interlúdio.</li><li><strong><span class='bg-violet'>ENERGIA</span></strong> A intensidade dos choques aumenta, além de ter conectado em suas veias pequenos tubos para gotejamento de ácido. Respirar através de uma máscara de gás para inalar alucinógenos a todo momento deixa tudo mais divertido, colorido e caótico. Sua resistência a dano passa a se aplicar também a dano químico. Além disso, você pode extrair energia de fontes elétricas; para isso, deve gastar uma ação de movimento e tocar uma fonte de eletricidade. Você recupera uma quantidade de PE conforme o tipo de fonte: 1d4 PE para um dispositivo portátil, como um tablet ou celular, 2d4 PE para um dispositivo grande, como uma moto ou um carro elétrico, e 4d4 para uma fonte do tamanho de uma casa. Usar este efeito descarrega completamente a fonte e sobrecarrega seus circuitos, que se tornam incapazes de transmitir energia.</li></ul>"
+    }
+  }
+]

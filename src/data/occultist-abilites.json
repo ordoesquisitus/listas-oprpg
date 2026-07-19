@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Camuflar Ocultismo",
+    "description": "Você pode gastar uma ação livre para esconder símbolos e sigilos que estejam desenhados ou gravados em objetos ou em sua pele, tornando-os invisíveis para outras pessoas além de você mesmo. Além disso, quando lança um ritual, pode gastar +2 PE para lançá-lo sem usar componentes ritualísticos e sem gesticular (o que permite conjurar um ritual com as mãos presas), usando apenas concentração. Outros seres só perceberão que você lançou um ritual se passarem num teste de Ocultismo (DT 25).",
+    "requirement": null
+  },
+  {
+    "name": "Criar Selo",
+    "description": "Você sabe fabricar selos paranormais de rituais que conheça (veja a página 151). Fabricar um selo gasta uma ação de interlúdio e um número de PE iguais ao custo de conjurar o ritual. Você pode ter um número máximo de selos criados ao mesmo tempo igual à sua Presença.",
+    "requirement": null
+  },
+  {
+    "name": "Envolto em Mistério",
+    "description": "Sua aparência e postura assombrosas o permitem manipular e assustar pessoas ignorantes ou supersticiosas. O mestre define o que exatamente você pode fazer e quem se encaixa nessa descrição. Como regra geral, você recebe +5 em Enganação e Intimidação contra pessoas não treinadas em Ocultismo.",
+    "requirement": null
+  },
+  {
+    "name": "Especialista em Elemento",
+    "description": "Escolha um elemento. A DT para resistir aos seus rituais desse elemento aumenta em +2.",
+    "requirement": null
+  },
+  {
+    "name": "Ferramentas Paranormais",
+    "description": "Você reduz a categoria de um item paranormal em I e pode ativar itens paranormais sem pagar seu custo em PE.",
+    "requirement": null
+  },
+  {
+    "name": "Fluxo de Poder",
+    "description": "Você pode manter dois efeitos sustentados de rituais ativos ao mesmo tempo com apenas uma ação livre, pagando o custo de cada efeito separadamente.",
+    "requirement": "NEX 60%."
+  },
+  {
+    "name": "Guiado pelo Paranormal",
+    "description": "Uma vez por cena, você pode gastar 2 PE para fazer uma ação de investigação adicional.",
+    "requirement": null
+  },
+  {
+    "name": "Identificação Paranormal",
+    "description": "Você recebe +10 em testes de Ocultismo para identificar criaturas, objetos ou rituais.",
+    "requirement": null
+  },
+  {
+    "name": "Improvisar Componentes",
+    "description": "Uma vez por cena, você pode gastar uma ação completa para fazer um teste de Investigação (DT 15). Se passar, encontra objetos que podem servir como componentes ritualísticos de um elemento à sua escolha. O mestre define se é possível usar esse poder na cena atual.",
+    "requirement": null
+  },
+  {
+    "name": "Intuição Paranormal",
+    "description": "Sempre que usa a ação facilitar investigação, você soma seu Intelecto ou Presença no teste (à sua escolha).",
+    "requirement": null
+  },
+  {
+    "name": "Mestre em Elemento",
+    "description": "Escolha um elemento. O custo para lançar rituais desse elemento diminui em –1 PE.",
+    "requirement": "Especialista em Elemento no elemento escolhido, NEX 45%."
+  },
+  {
+    "name": "Ritual Potente",
+    "description": "Você soma seu Intelecto nas rolagens de dano ou nos efeitos de cura de seus rituais.",
+    "requirement": "Int 2."
+  },
+  {
+    "name": "Ritual Predileto",
+    "description": "Escolha um ritual que você conhece. Você reduz em –1 PE o custo do ritual. Essa redução se acumula com reduções fornecidas por outras fontes.",
+    "requirement": null
+  },
+  {
+    "name": "Tatuagem Ritualística",
+    "description": "Símbolos marcados em sua pele reduzem em –1 PE o custo de rituais de alcance pessoal que têm você como alvo.",
+    "requirement": null
+  },
+  {
+    "name": "Transcender",
+    "description": "Escolha um poder paranormal. Você recebe o poder escolhido, mas não ganha Sanidade neste aumento de NEX. Você pode escolher este poder várias vezes.",
+    "requirement": null
+  },
+  {
+    "name": "Treinamento em Perícia",
+    "description": "Escolha duas perícias. Você se torna treinado nessas perícias. A partir de NEX 35%, você pode escolher perícias nas quais já é treinado para se tornar veterano. A partir de NEX 70%, pode escolher perícias nas quais já é veterano para se tornar expert. Você pode escolher este poder várias vezes.",
+    "requirement": null
+  },
+  {
+    "name": "Deixe os Sussurros Guiarem",
+    "description": "Você sabe abrir sua mente para os sussurros do Paranormal, vozes que lhe guiam às custas de sua Sanidade. Uma vez por cena, você pode gastar 2 PE e uma rodada para receber +2 em testes de perícia para investigação até o fim da cena. Entretanto, enquanto este poder estiver ativo, sempre que falha em um teste de perícia, você perde 1 ponto de Sanidade.",
+    "requirement": null
+  },
+  {
+    "name": "Domínio Esotérico",
+    "description": "Você estudou a fundo a complexidade de catalisadores esotéricos e aprendeu a combinar suas propriedades paranormais. Ao lançar um ritual, você pode combinar os efeitos de até dois catalisadores ritualísticos diferentes ao mesmo tempo.",
+    "requirement": "Int 3."
+  },
+  {
+    "name": "Estalos Macabros",
+    "description": "Você sabe colidir pequenos objetos amaldiçoados para gerar distrações fortuitas em momentos de necessidade. Quando faz uma ação para atrapalhar a atenção de outro ser (como distrair em uma cena de furtividade ou fintar em combate), você pode gastar 1 PE para usar Ocultismo em vez da perícia original. Se o alvo da sua distração for uma pessoa ou animal, você recebe +5 no teste.",
+    "requirement": null
+  },
+  {
+    "name": "Minha Dor me Impulsiona",
+    "description": "Você está acostumado com sacrifícios dolorosos e aprendeu a transformar sua dor em impulso físico. Quando faz um teste de Acrobacia, Atletismo ou Furtividade, você pode gastar 1 PE para receber +1d6 no teste. Você só pode usar este poder se estiver com pelo menos 5 pontos de dano em seus PV.",
+    "requirement": "Vig 2."
+  },
+  {
+    "name": "Nos Olhos do Monstro",
+    "description": "Por mais assustador que seja encarar o paranormal, fazer isso pode fornecer a chave para escapar dele com vida. Se estiver em uma cena envolvendo uma criatura paranormal, você pode gastar uma rodada e 3 PE para encarar essa criatura (você precisa ser capaz de ver os olhos ou o mais próximo de um “rosto” da criatura, definido pelo mestre). Se fizer isso, você recebe +5 em testes contra a criatura (exceto testes de ataque) até o fim da cena.",
+    "requirement": null
+  },
+  {
+    "name": "Olhar Sinistro",
+    "description": "Aquilo que para outros é quase uma ciência, para você é a imposição da própria vontade. Você pode usar Presença no lugar de Intelecto para Ocultismo e pode usar esta perícia para coagir.",
+    "requirement": "Pre 1."
+  },
+  {
+    "name": "Sentido Premonitório",
+    "description": "Sua exposição paranormal dá outros significados para arrepios e calafrios. Você pode gastar 3 PE para ativar um sentido premonitório. Enquanto seu sentido estiver ativo, você tem um déjà vu do futuro próximo (equivalente a uma rodada). Entre outras coisas, você sabe com uma rodada de antecedência quando a urgência de uma investigação vai acabar, se irá ocorrer um evento na investigação e qual será ele (o mestre rola antecipadamente o evento) e sabe quais ações seus inimigos irão tomar em cenas de furtividade e perseguição (essencialmente, você pode decidir suas próprias ações após ver o resultado das rolagens dos demais envolvidos na cena). O mestre pode aprovar outros usos criativos deste poder. <p>Devido à natureza acelerada e caótica de um combate, este poder não tem efeito nestas cenas. Para manter seu sentido ativado, você deve gastar 1 PE no início de cada rodada.</p>",
+    "requirement": null
+  },
+  {
+    "name": "Sincronia Paranormal",
+    "description": "A exposição Paranormal de momentos terríveis que você compartilhou com seus aliados criou uma conexão invisível de Medo entre vocês, como uma linha entrelaçada dos seus destinos. Você pode gastar uma ação padrão e 2 PE para estabelecer uma sincronia mental com qualquer número de personagens, em alcance médio, com os quais você já tenha sobrevivido a pelo menos um encontro com o Paranormal. Essa sincronia é uma conexão inconsciente, e não permite uma troca clara de informações; em termos de regras, no início de cada rodada em que a sincronia estiver em efeito você pode distribuir uma quantidade de 1d20 de bônus igual à sua Presença entre os demais participantes. Estes dados podem ser usados em testes de perícias baseadas em Intelecto ou Presença e desaparecem no final de cada rodada. Manter a sincronia custa 1 PE no início de cada rodada.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Acostumado a Maldição de <Elemento>",
+    "description": "Escolha um elemento (exceto Medo). Por já interagir ritualísticamente com esta entidade, quando falha em um teste relacionado ao preço da maldição de itens amaldiçoados do elemento escolhido, você não perde pontos de sanidade. Você ainda sofre quaisquer outros efeitos negativos de itens amaldiçoados.",
+    "requirement": "Int 2, conjurar ritual de 2° círculo do elemento escolhido."
+  },
+  {
+    "name": "Reter Ritual de Combate",
+    "description": "Quando um ritual com duração retida está afetando negativamente um alvo, você pode mudar a duração para cena, como reação, no instante em que ele sai da linha de efeito. Além disso, quando sofre uma condição que o faz deixar de reter rituais, você pode gastar uma reação e 1 PE por ritual para mudar a duração dos rituais para cena, evitando perder seus efeitos. O custo é de 1 PE por ritual.",
+    "requirement": "Int 2, conjurar ritual de 1° círculo."
+  },
+  {
+    "name": "Ritual Intenso",
+    "description": "Você soma sua Presença nas rolagens de dano e de cura de seus rituais.",
+    "requirement": "Pre 2."
+  },
+  {
+    "name": "Saúde Sobrenatural",
+    "description": "Uma vez por cena, você pode gastar uma ação de movimento e 3 PE para receber pontos de vida temporários igual a sua Presença x 10. Por exemplo, se tem Pre 3, recebe 30 PV temporários. Esses pontos temporários desaparecem no fim da cena e não são cumulativos com eles mesmos.",
+    "requirement": "Int 2, Pre 2, conjurar ritual de 1° círculo."
+  },
+  {
+    "name": "Dominar Habilidade Ritualística",
+    "description": "Seus estudos são amplos e não serão interrompidos por barreiras burocráticas. Quando adquire esse poder, você pode escolher a primeira habilidade de uma trilha de Ocultista (que não seja a sua). Se já possuir Versatilidade e tiver escolhido a habilidade inicial de outra trilha, ao invés do normal, você pode receber a segunda habilidade da trilha escolhida em Versatilidade. Para receber a habilidade, você precisa ter o NEX necessário para usá-la. Além disso, você pode escolher esse poder uma segunda vez para: receber a segunda habilidade de uma trilha que não seja a sua (ou a terceira se já possuir Versatilidade).",
+    "requirement": "Escolhido pelo Outro Lado."
+  },
+  {
+    "name": "Liturgia de Fortalecimento Ritualístico",
+    "description": "Você conhece práticas ritualísticas longas que fortalecem seus rituais. Em uma cena de interlúdio, você pode gastar 2 PE e uma ação de interlúdio para fortalecer um ritual que conheça. A DT do ritual escolhido aumenta em +2 até o início da próxima cena de interlúdio.",
+    "requirement": "Int e Pre 2."
+  },
+  {
+    "name": "Flagelo Bem Aproveitado",
+    "description": "Cada gota de sangue é melhor aproveitada por você. A taxa da habilidade Poder do Flagelo muda para 1 PV por PE pago.",
+    "requirement": "Escolhido pelo Outro Lado, Recuperação Flagelante."
+  },
+  {
+    "name": "Recuperação Flagelante",
+    "description": "Quanto mais você se recupera, mais você pode sofrer. Entre uma cena de interlúdio e outra, você pode, uma única vez, recuperar pontos de vida gastos com a habilidade Poder do Flagelo com outros métodos além de descanso. Esse poder pode ser adquirido novamente para aumentar o uso em +1 até o limite de 3 usos entre cenas de interlúdio.",
+    "requirement": "Escolhido pelo Outro Lado, Poder do Flagelo."
+  },
+  {
+    "name": "Explorador da Névoa",
+    "description": "Você já criou costume por estar em lugares onde ninguém gostaria de pisar. Uma vez por cena, você pode gastar 2 PE para distinguir o estado da Membrana de um ambiente (estável, danificada, arruinada etc.). Se fizer isso e a Membrana estiver danificada ou pior, você perde 1 SAN, mas reduz o custo de conjuração de todos os seus rituais em 1 PE.",
+    "requirement": null
+  },
+  {
+    "name": "Sinestesia Paranormal",
+    "description": "O Outro Lado afeta sua percepção sensorial à níveis extremos. Quando entra em uma cena em que a Membrana está danificada ou pior, você passa a conseguir ouvir o gosto do caos, sentir o som da imprevisibilidade, saborear o cheiro do intangível, percebendo influências do Outro Lado de maneiras diferentes. Você pode resistir a sinestesia (nada acontece e seus sentidos voltam ao normal) ou aceitá-la. Caso aceite, você perde 1d6 SAN e pode escolher dois pares de perícias para trocar os atributos usados entre elas. Por exemplo, você pode trocar Atletismo (passa a usar Presença, em vez de Força) e Percepção (passa a usar Força, em vez de Presença), e trocar Investigação (passa a usar Agilidade, em vez de Intelecto) e Reflexos (passa a usar Intelecto, em vez de Agilidade). Você não pode usar esse poder em perícias que exijam treinamento e você não tenha. A sinestesia é interrompida quando você sai da área afetada pela Membrana e só pode ser aceita novamente no dia seguinte.",
+    "requirement": null
+  },
+  {
+    "name": "Terrores Noturnos",
+    "description": "Os sussurros da escuridão não cessam e parecem se fortalecer conforme seus olhos se fecham. Quando dormir em uma cena de interlúdio, role 1d100. Se o resultado for 51 ou mais, nada acontece e você tem bons sonhos (recebe +2 PE pelo descanso agradável). Se o resultado for 50 ou menos, você é tomado por pesadelos paranormais. Sua condição de descanso muda para precária e você perde 1d4 SAN. Entretanto, escolha 1 poder paranormal ou ritual que você atenda aos pré-requisitos para usá-lo. Até o início da próxima cena de interlúdio, você pode usar o poder ou conjurar o ritual uma única vez, seguindo as regras dele normalmente.",
+    "requirement": null
+  },
+  {
+    "name": "Catálogo de Criaturas Ambulantes",
+    "description": "Sua memória é inquestionável quando o assunto é criaturas. Você pode identificar criaturas como uma ação de movimento, em vez de ação completa e consegue fazer isso sem vê-las pessoalmente, analisando somente algum vestígio deixado no ambiente.",
+    "requirement": "Identificação Paranormal."
+  },
+  {
+    "name": "Meditação Ocultista",
+    "description": "Você recebe uma nova ação de interlúdio: Meditação. Com esta ação, recupera uma quantidade de pontos de esforço conforme seu limite de PE e sua condição de meditação (siga a mesma lógica das condições de descanso; veja a seguir). Você só pode meditar uma vez por interlúdio.<p><strong>Normal. </strong>Recupera um número de pontos de esforço igual ao dobro do seu limite de PE por rodada. Assim, um personagem de NEX 35% (limite de PE 7) recupera 14 PE.</p><p><strong>Precária. </strong>Recuperação reduzida pela metade.</p><p><strong>Confortável. </strong>Recuperação triplicada.</p><p><strong>Luxuosa. </strong>Recuperação quadruplicada.</p>",
+    "requirement": null
+  },
+  {
+    "name": "Ruído de Comunicação",
+    "description": "Nem tudo é o que parece ser. Uma vez por rodada, ao presenciar uma situação em que um ser em alcance curto recebe um efeito (bônus ou penalidade) em dados rolados (dados adicionais em testes de perícia, rolagens de dano ou uma condição como frustrado, por exemplo), você pode gastar uma reação e 3 PE para alterar o efeito, transformando bônus em penalidade ou vice-versa. Esta habilidade não pode ser usada em penalidades sofridas intencionalmente (por exemplo, deitar para ficar caído e usar o poder para receber +2O em ataques corpo a corpo). A transformação dura pela descrição original do efeito ou até o fim da cena, o que for menor. Este poder não afeta o mesmo ser mais de uma vez ao mesmo tempo.",
+    "requirement": null
+  },
+  {
+    "name": "Barreira do Oculto",
+    "description": "Buscando sobreviver, você aprendeu a se proteger através da conexão com uma entidade. Escolha um elemento. Quando conjura um ritual do elemento escolhido, você pode gastar PE para receber bônus na Defesa, na proporção de 1 PE para cada +2 na Defesa, até seu limite de PE. O bônus dura por 1 rodada.",
+    "requirement": "Especialista em Elemento no elemento escolhido, NEX 30%."
+  },
+  {
+    "name": "Grão-Mestre em Elemento",
+    "description": "Você se tornou mestre em causar efeitos adicionais quando conjura seus rituais. Escolha um elemento. Quando conjura um ritual do elemento escolhido, você pode gastar 1 PE para causar um dos efeitos a seguir, de acordo com o elemento.<ul><li><span class='bg-danger fw-bold'>SANGUE</span> se o alvo for um aliado, ele recebe +2d4 pontos de dano extra de Sangue em suas rolagens de dano; se o alvo for um inimigo, ele fica debilitado por 1 rodada.</li> <li><span class='bg-black fw-bold'>MORTE</span> se o alvo for um aliado, ele recebe 3d8+3 pontos de vida temporários; se o alvo for um inimigo, ele fica enjoado por 1 rodada.</li><li><span class='bg-warning fw-bold'>CONHECIMENTO</span> se o alvo for um aliado, ele recebe +2 em testes de perícia; se o alvo for um inimigo, ele fica esmorecido por 1 rodada.<li> <li><span class='bg-violet fw-bold'>ENERGIA</span> se o alvo for um aliado, ele recebe +6m em todas as suas formas de deslocamento; se o alvo for um inimigo, ele fica desprevenido por 1 rodada.</li></ul> Os efeitos desta habilidade afetam apenas 1 alvo (podendo ser você) e duram até o fim da cena (salvo descrição contrária), mesmo que o ritual afete vários e tenha duração diferente. Além disso, as condições causadas por esta habilidade ignoram imunidades.",
+    "requirement": "Mestre em Elemento no elemento escolhido, NEX 60%."
+  }
+]
